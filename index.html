@@ -95,14 +95,17 @@
   .day-card{background:var(--card);border:1px solid var(--line);border-radius:13px;overflow:hidden;display:flex;flex-direction:column;transition:.18s;position:relative;}
   .day-card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--blue);}
   .day-card:hover{box-shadow:0 6px 22px rgba(16,32,48,.1);transform:translateY(-2px);border-color:#cdd9e4;}
-  .dc-head{display:flex;align-items:center;justify-content:space-between;padding:14px 15px 11px;border-bottom:1px solid var(--line-2);}
+  .dc-head{display:flex;align-items:center;justify-content:space-between;padding:14px 15px 11px;border-bottom:1px solid var(--line-2);cursor:pointer;transition:.12s;}
+  .dc-head:hover{background:#f4f3ff;}
+  .dc-head:hover .dnum b{color:var(--blue);}
   .dnum{display:flex;align-items:baseline;gap:8px;}
   .dnum b{font-size:1.35rem;font-weight:800;letter-spacing:-1px;line-height:1;}
   .dnum span{font-size:.68rem;font-weight:800;color:var(--faint);letter-spacing:1px;}
   .dc-head .cnt{font-size:.66rem;font-weight:800;color:var(--sub);background:var(--line-2);padding:3px 9px;border-radius:20px;}
   .dc-body{padding:7px 9px 11px;display:flex;flex-direction:column;gap:2px;}
-  .subj{display:flex;align-items:center;gap:8px;padding:7px 6px;border-radius:8px;transition:.12s;}
+  .subj{display:flex;align-items:center;gap:8px;padding:7px 6px;border-radius:8px;transition:.12s;cursor:pointer;}
   .subj:hover{background:var(--line-2);}
+  .subj:hover .nm{color:var(--blue);}
   .subj .nm{font-size:.83rem;font-weight:700;flex:1;line-height:1.25;}
   .subj.plain .nm{color:var(--faint);font-weight:500;}
   .minibadges{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end;}
@@ -460,13 +463,13 @@ function renderHome(){
     const ab=day.label.split(' '); // [Weekday, DD, Mon]
     const rows=entries.map(([name,types])=>{
       const badges=[...types].map(t=>{const c=MB[t];return `<span class="mb" style="background:${c[1]};color:${c[2]}">${c[0]}</span>`;}).join('');
-      return `<div class="subj ${types.size?'':'plain'}"><span class="nm">${esc(name)}</span><span class="minibadges">${badges}</span></div>`;
+      return `<div class="subj ${types.size?'':'plain'}" data-fixture="${esc(name)}" title="Click to find ${esc(name)}"><span class="nm">${esc(name)}</span><span class="minibadges">${badges}</span></div>`;
     }).join('');
     const campHtml=camp.length?`<div class="dc-camp">${camp.map(e=>{
       const mk=(e.marker||'').toLowerCase();
       return `<div class="camp-chip cat-${e.cat}" title="${esc(e.title+' — '+e.sub)}"><span class="cc-t">${esc(evLabel(e))}</span><span class="cc-mk mk-${mk}">${esc((e.marker||'').replace('RECORD','REC'))}</span></div>`;
     }).join('')}</div>`:'';
-    return `<div class="day-card"><div class="dc-head">
+    return `<div class="day-card"><div class="dc-head" data-day="${esc(day.label)}" title="View ${esc(day.label)} schedule →">
         <div class="dnum"><b>${esc(ab[1]||'')}</b><span>${esc((ab[0]||'').slice(0,3).toUpperCase())} ${esc(ab[2]||'')}</span></div>
         <span class="cnt">${entries.length}</span></div>
       <div class="dc-body">${rows}${campHtml}</div></div>`;
@@ -716,7 +719,21 @@ function renderAll(){renderHome();renderSchedule();renderPromos();renderGaming()
 
 $('#q').addEventListener('input',e=>{state.q=e.target.value.trim().toLowerCase();renderAll();});
 document.addEventListener('click',e=>{
-  const dv=e.target.closest('[data-view]'); if(dv){setView(dv.dataset.view);return;}
+  const fx=e.target.closest('[data-fixture]'); if(fx){
+    const term=fx.dataset.fixture;
+    $('#q').value=term; state.q=term.toLowerCase();
+    const promoItems=(D.promoWeeks&&D.promoWeeks[state.week]?D.promoWeeks[state.week].items:[]);
+    const hasPromo=promoItems.some(p=>match(p,state.q));
+    setView(hasPromo?'promotions':'schedule');
+    return;
+  }
+  const dy=e.target.closest('[data-day]'); if(dy){
+    const term=dy.dataset.day;
+    $('#q').value=term; state.q=term.toLowerCase();
+    setView('schedule');
+    return;
+  }
+  const dv=e.target.closest('[data-view]'); if(dv){$('#q').value='';state.q='';setView(dv.dataset.view);return;}
   const pf=e.target.closest('[data-pf]'); if(pf){state.promoFilter=pf.dataset.pf;renderPromos();}
   const gf=e.target.closest('[data-gf]'); if(gf){state.gamingFilter=gf.dataset.gf;renderGaming();}
   const wk=e.target.closest('[data-wk]'); if(wk){state.week=+wk.dataset.wk;state.gamingFilter='all';state.promoFilter='all';renderAll();}
