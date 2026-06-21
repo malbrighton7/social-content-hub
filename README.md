@@ -6,19 +6,29 @@ A self-contained website that combines **Weekly Promotions**, **Weekly Gaming Pr
 
 | File | What it is | Touch it? |
 |---|---|---|
-| `index.html` | The website (Home, Promotions, Gaming). Layout, styling, search, copy buttons. | Rarely — only to change how the site looks/works. |
-| `data.js` | **This week's content.** Everything you see on the site comes from here. | **Every week.** |
+| `index.html` | The website (Home, Schedule, Promotions, Gaming, Calendar). Layout, styling, search. | Rarely — only to change how the site looks/works. |
+| `data.js` | **The content.** Everything you see on the site comes from here. | **Every week.** |
 | `data.template.js` | A fully-commented blank version of `data.js` explaining every field. | Reference only — copy from it. |
+| `roll-week.py` | Helper that removes the oldest week (the weekly clean-up). | Run weekly. |
+| `Promo_Copy_Rulebook.md` | Copy rules + example bank for the Promotions captions. | Reference. |
 | `README.md` | This file. | — |
 
 ## Weekly routine
 
-1. Open `data.template.js` and copy its structure.
-2. Fill in this week's **promos**, **gaming** offers, **schedule** and **priorities**.
-3. Paste the result into `data.js` (replacing last week's), and save.
-4. Open `index.html` (or hit refresh) — the whole site updates.
+The site holds two weeks at a time (current + next) and rolls forward each week so nothing goes stale. Each week:
 
-That's it. The site shell never changes; you only ever swap the data.
+1. **Add the new week.** Send next week's promo pack, gaming spreadsheet and Brandwatch schedule CSVs, and they get built into a new block appended to `weeks`, `promoWeeks` and `gamingWeeks` (with imagery matched). The shared week switcher will then show both weeks.
+2. **Roll off the oldest week.** Once the new week is in, drop the now-finished week:
+
+   ```
+   python3 roll-week.py            # preview what will be removed
+   python3 roll-week.py --apply    # remove the oldest week
+   ```
+
+   It only edits the three week-arrays in `data.js`; the **Calendar** (`campaign`) and **links** are left untouched.
+3. **Refresh `index.html`** — the whole site updates.
+
+That's it. The site shell never changes; you only ever swap the data. (Old promo images can be left in `images/` — they're harmless — or deleted by hand to tidy up.)
 
 ## The sections in `data.js`
 
