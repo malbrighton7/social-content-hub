@@ -807,6 +807,758 @@ window.SCH_DATA = {
           ]
         }
       ]
+    },
+    {
+      "label": "29 Jun – 5 Jul 2026",
+      "commencing": "2026-06-29",
+      "theme": "World Cup Round of 32 · Wimbledon fortnight · GAA Championship",
+      "updated": "2026-06-25",
+      "priorities": [
+        {
+          "title": "World Cup Round of 32 knockouts",
+          "note": "Knockout fixtures daily — opponents confirm through the week; Super Boost + BBB on the headline ties.",
+          "level": "high"
+        },
+        {
+          "title": "Wimbledon fortnight",
+          "note": "Daily Early Payout plus acca Bet & Get across the Championships.",
+          "level": "high"
+        },
+        {
+          "title": "GAA Championship",
+          "note": "Super Boost on the weekend GAA fixtures (teams TBC).",
+          "level": "med"
+        },
+        {
+          "title": "John Deere Classic (PGA)",
+          "note": "Extra-places golf promo midweek.",
+          "level": "low"
+        }
+      ],
+      "schedule": [
+        {
+          "date": "2026-06-29",
+          "label": "Monday 29 Jun",
+          "posts": [
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 32 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "Germany v Paraguay",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "Bet 10 Get 5 - Germany v Paraguay Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "Brazil v Japan",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "Super Boost - Brazil v Japan",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "14:00",
+              "text": "Bet 15 Get 5 on Accas - Wimbledon",
+              "cat": "promo"
+            },
+            {
+              "time": "16:30",
+              "text": "Brazil v Japan",
+              "cat": "fixture"
+            },
+            {
+              "time": "17:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "17:30",
+              "text": "Super Boost - Brazil v Japan",
+              "cat": "promo"
+            },
+            {
+              "time": "18:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "20:00",
+              "text": "Germany v Paraguay",
+              "cat": "fixture"
+            },
+            {
+              "time": "20:30",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "21:00",
+              "text": "Bet 10 Get 5 - Germany v Paraguay Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "21:30",
+              "text": "Round of 32 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "22:00",
+              "text": "Super Boost - Round of 32 18:00 Match",
+              "cat": "promo"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "label": "Tuesday 30 Jun",
+          "posts": [
+            {
+              "time": "00:30",
+              "text": "Netherlands v Morocco",
+              "cat": "fixture"
+            },
+            {
+              "time": "01:30",
+              "text": "25% BBB - Netherlands v Morocco",
+              "cat": "promo"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 32 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "Round of 32 - 22:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "50% BBB - Round of 32 22:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "Round of 32 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "Super Boost - Round of 32 18:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "16:30",
+              "text": "Round of 32 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "17:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "17:30",
+              "text": "Super Boost - Round of 32 18:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "18:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "19:00",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "19:30",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "20:30",
+              "text": "Round of 32 - 22:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "21:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "21:30",
+              "text": "50% BBB - Round of 32 22:00 Match",
+              "cat": "promo"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-01",
+          "label": "Wednesday 1 Jul",
+          "posts": [
+            {
+              "time": "00:30",
+              "text": "TBC v Mexico",
+              "cat": "fixture"
+            },
+            {
+              "time": "01:30",
+              "text": "25% BBB - TBC v Mexico",
+              "cat": "promo"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 32 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "14:00",
+              "text": "John Deere Classic",
+              "cat": "fixture"
+            },
+            {
+              "time": "14:30",
+              "text": "John Deere Classic - 10 Places",
+              "cat": "promo"
+            },
+            {
+              "time": "15:30",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "16:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "16:30",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "16:45",
+              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "17:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "20:00",
+              "text": "Round of 32 - 21:00 Match",
+              "cat": "fixture"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-02",
+          "label": "Thursday 2 Jul",
+          "posts": [
+            {
+              "time": "00:00",
+              "text": "Bosnia v USA",
+              "cat": "fixture"
+            },
+            {
+              "time": "00:15",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "00:30",
+              "text": "50% BBB - Bosnia v USA",
+              "cat": "promo"
+            },
+            {
+              "time": "02:30",
+              "text": "Round of 32 - 04:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "03:30",
+              "text": "25% BBB - Round of 32 04:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - Bosnia v USA fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 32 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "Round of 32 - 20:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "Bet 10 Get 5 - 20:00 Match Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "14:00",
+              "text": "Bet 15 Get 5 on Accas - Wimbledon",
+              "cat": "promo"
+            },
+            {
+              "time": "18:30",
+              "text": "Round of 32 - 20:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "19:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "19:30",
+              "text": "Bet 10 Get 5 - 20:00 Match Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "20:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "20:30",
+              "text": "Round of 32 - 19:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "21:00",
+              "text": "Super Boost - Round of 32 19:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "23:00",
+              "text": "Round of 32 - 00:00 Match",
+              "cat": "fixture"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-03",
+          "label": "Friday 3 Jul",
+          "posts": [
+            {
+              "time": "01:00",
+              "text": "Round of 32 - 02:30 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "02:00",
+              "text": "25% BBB - Round of 32 02:30 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "03:00",
+              "text": "Round of 32 - 04:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 32 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "Argentina v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "50% BBB - Argentina v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "Round of 32 - 19:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "Super Boost - Round of 32 19:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "15:00",
+              "text": "Round of 16 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "15:30",
+              "text": "50% BBB - Round of 16 18:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "17:30",
+              "text": "Round of 32 - 19:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "18:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "18:30",
+              "text": "Super Boost - Round of 32 19:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "19:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "20:30",
+              "text": "GAA Championship",
+              "cat": "fixture"
+            },
+            {
+              "time": "21:00",
+              "text": "GAA Championship Super Boost",
+              "cat": "promo"
+            },
+            {
+              "time": "21:30",
+              "text": "Argentina v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "22:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "22:30",
+              "text": "50% BBB - Argentina v TBC",
+              "cat": "promo"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-04",
+          "label": "Saturday 4 Jul",
+          "posts": [
+            {
+              "time": "01:30",
+              "text": "Round of 32 - 02:30 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 16 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "Round of 16 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "50% BBB - Round of 16 18:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "GAA Championship",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "GAA Championship Super Boost",
+              "cat": "promo"
+            },
+            {
+              "time": "13:00",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "14:00",
+              "text": "Bet 15 Get 5 on Accas - Wimbledon",
+              "cat": "promo"
+            },
+            {
+              "time": "14:30",
+              "text": "Round of 16 - 22:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "15:00",
+              "text": "Bet 10 Get 5 - 22:00 Match Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "16:30",
+              "text": "Round of 16 - 18:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "17:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "17:30",
+              "text": "50% BBB - Round of 16 18:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "18:00",
+              "text": "EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "19:00",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "19:30",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "20:00",
+              "text": "GAA Championship",
+              "cat": "fixture"
+            },
+            {
+              "time": "20:30",
+              "text": "GAA Championship Super Boost",
+              "cat": "promo"
+            },
+            {
+              "time": "20:45",
+              "text": "Round of 16 - 22:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "21:15",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "21:30",
+              "text": "Bet 10 Get 5 - 22:00 Match Bet Builders",
+              "cat": "promo"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-05",
+          "label": "Sunday 5 Jul",
+          "posts": [
+            {
+              "time": "00:00",
+              "text": "Round of 16 - 01:00 Match",
+              "cat": "fixture"
+            },
+            {
+              "time": "00:30",
+              "text": "25% BBB - Round of 16 01:00 Match",
+              "cat": "promo"
+            },
+            {
+              "time": "08:00",
+              "text": "World Cup 2026 - fallout",
+              "cat": "fallout"
+            },
+            {
+              "time": "09:00",
+              "text": "World Cup 2026 - Round of 16 schedule",
+              "cat": "schedule"
+            },
+            {
+              "time": "10:00",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "10:30",
+              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "11:30",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "12:00",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "12:30",
+              "text": "GAA Championship",
+              "cat": "fixture"
+            },
+            {
+              "time": "13:00",
+              "text": "GAA Championship Super Boost",
+              "cat": "promo"
+            },
+            {
+              "time": "13:30",
+              "text": "Wimbledon",
+              "cat": "fixture"
+            },
+            {
+              "time": "14:00",
+              "text": "Wimbledon EPO",
+              "cat": "promo"
+            },
+            {
+              "time": "17:00",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "19:30",
+              "text": "England v TBC",
+              "cat": "fixture"
+            },
+            {
+              "time": "20:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "20:30",
+              "text": "Super Boost - England v TBC",
+              "cat": "promo"
+            },
+            {
+              "time": "20:45",
+              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "cat": "promo"
+            },
+            {
+              "time": "21:00",
+              "text": "EPO",
+              "cat": "promo"
+            }
+          ]
+        }
+      ]
     }
   ],
   "links": [
@@ -1172,6 +1924,362 @@ window.SCH_DATA = {
           "image": ""
         }
       ]
+    },
+    {
+      "label": "29 Jun – 5 Jul 2026",
+      "items": [
+        {
+          "day": "Monday 29 Jun",
+          "match": "Brazil v Japan",
+          "competition": "World Cup",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for Brazil v Japan in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Brazil v Japan in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/brazil-v-japan",
+          "image": "",
+          "note": "Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Monday 29 Jun",
+          "match": "Netherlands v Morocco",
+          "competition": "World Cup",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as the Netherlands take on Morocco in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as the Netherlands take on Morocco in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/netherlands-v-morocco",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/netherlands-v-morocco",
+          "image": "",
+          "note": ""
+        },
+        {
+          "day": "Monday 29 Jun",
+          "match": "Germany v Paraguay",
+          "competition": "World Cup",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Germany v Paraguay in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Germany v Paraguay in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": ""
+        },
+        {
+          "day": "Monday 29 Jun",
+          "match": "Wimbledon",
+          "competition": "Wimbledon",
+          "promo": "EPO",
+          "type": "epo",
+          "twitter": "Get paid out early with BoyleSports Early Payout at Wimbledon!\n\nTap below to find out more.",
+          "facebook": "Get paid out early with BoyleSports Early Payout at Wimbledon!\n\n📲 Find out more — https://www.boylesports.com/sports/tennis",
+          "air": "https://app.air.inc/a/b23fc8b92/b/7e45b8f7-bb4e-4820-b997-a5eb702cb234/c/d85d9a6b-23ce-4429-bdee-bc5cf09bf137",
+          "boylesports": "https://www.boylesports.com/sports/tennis",
+          "image": "",
+          "note": "Tennis; daily Wimbledon EPO · Tennis EPO mechanic to be confirmed."
+        },
+        {
+          "day": "Monday 29 Jun",
+          "match": "Wimbledon",
+          "competition": "Wimbledon",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\n📲 Opt in — https://www.boylesports.com/sports/tennis",
+          "air": "https://app.air.inc/a/b23fc8b92/b/3960cdf2-d194-49a2-9004-57e19df428a7/c/6fc4c5e7-8ada-4076-8200-ac6008680630",
+          "boylesports": "https://www.boylesports.com/sports/tennis",
+          "image": "",
+          "note": "Tennis; acca bet & get"
+        },
+        {
+          "day": "Tuesday 30 Jun",
+          "match": "Round of 32 (18:00)",
+          "competition": "World Cup — Round of 32",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for Round of 32 (18:00) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Round of 32 (18:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup R32; match TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Tuesday 30 Jun",
+          "match": "22:00 Match",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost on 22:00 Match in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost on 22:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Tuesday 30 Jun",
+          "match": "TBC v Mexico",
+          "competition": "World Cup",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost on TBC v Mexico in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost on TBC v Mexico in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+        },
+        {
+          "day": "Wednesday 1 Jul",
+          "match": "England v TBC",
+          "competition": "World Cup",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for England v TBC in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for England v TBC in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Wednesday 1 Jul",
+          "match": "TBC v USA",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost on TBC v USA in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost on TBC v USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+        },
+        {
+          "day": "Wednesday 1 Jul",
+          "match": "England v TBC",
+          "competition": "World Cup",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending"
+        },
+        {
+          "day": "Wednesday 1 Jul",
+          "match": "John Deere Classic",
+          "competition": "Golf — Extra Places",
+          "promo": "Boost / Places",
+          "type": "places",
+          "twitter": "We're paying extra PLACES on the John Deere Classic.\n\nTap below to view the full market.",
+          "facebook": "We're paying extra PLACES on the John Deere Classic.\n\n📲 Full market — https://www.boylesports.com/sports/golf",
+          "air": "https://boylesports.sharepoint.com/sites/DesignTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDesignTeam%2FShared%20Documents%2F00%5FBack%5FYourself%2F03%5FDigital%2F00%5FSBK%2F02%5FGolf%2F00%5FExtra%5FPlaces%2FExports%2FJune%2FJohn%20Deere%20Classic&p=true&ga=1",
+          "boylesports": "https://www.boylesports.com/sports/golf",
+          "image": "",
+          "note": "PGA Tour golf; enhanced 10 places each-way · Number of places to confirm."
+        },
+        {
+          "day": "Thursday 2 Jul",
+          "match": "Bosnia v USA (01:00)",
+          "competition": "World Cup — Round of 32",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on the USA in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on the USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
+          "image": "",
+          "note": ""
+        },
+        {
+          "day": "Thursday 2 Jul",
+          "match": "04:00 Match",
+          "competition": "World Cup",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost on 04:00 Match in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost on 04:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Thursday 2 Jul",
+          "match": "20:00 Match",
+          "competition": "World Cup",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 20:00 Match in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 20:00 Match in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Thursday 2 Jul",
+          "match": "Wimbledon",
+          "competition": "Wimbledon",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\n📲 Opt in — https://www.boylesports.com/sports/tennis",
+          "air": "https://app.air.inc/a/b23fc8b92/b/3960cdf2-d194-49a2-9004-57e19df428a7/c/6fc4c5e7-8ada-4076-8200-ac6008680630",
+          "boylesports": "https://www.boylesports.com/sports/tennis",
+          "image": "",
+          "note": "Tennis; acca bet & get"
+        },
+        {
+          "day": "Friday 3 Jul",
+          "match": "19:00 Match",
+          "competition": "World Cup",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for 19:00 Match in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for 19:00 Match in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Friday 3 Jul",
+          "match": "Argentina v TBC",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost on Argentina v TBC in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost on Argentina v TBC in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+        },
+        {
+          "day": "Friday 3 Jul",
+          "match": "02:30 Match",
+          "competition": "World Cup",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost on 02:30 Match in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost on 02:30 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Saturday 4 Jul",
+          "match": "18:00 Match",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost on 18:00 Match in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost on 18:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Saturday 4 Jul",
+          "match": "22:00 Match",
+          "competition": "World Cup",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 22:00 Match in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 22:00 Match in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Saturday 4 Jul",
+          "match": "Wimbledon",
+          "competition": "Wimbledon",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€15 on a Wimbledon acca.\n\n📲 Opt in — https://www.boylesports.com/sports/tennis",
+          "air": "https://app.air.inc/a/b23fc8b92/b/3960cdf2-d194-49a2-9004-57e19df428a7/c/6fc4c5e7-8ada-4076-8200-ac6008680630",
+          "boylesports": "https://www.boylesports.com/sports/tennis",
+          "image": "",
+          "note": "Tennis; acca bet & get"
+        },
+        {
+          "day": "Saturday 4 Jul",
+          "match": "GAA (TBC v TBC)",
+          "competition": "GAA Championship",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/gaelic-games",
+          "image": "",
+          "note": "GAA; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Sunday 5 Jul",
+          "match": "England v TBC",
+          "competition": "World Cup",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for England v TBC in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for England v TBC in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Sunday 5 Jul",
+          "match": "01:00 Match",
+          "competition": "World Cup",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost on 01:00 Match in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost on 01:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; teams TBC, design pending"
+        },
+        {
+          "day": "Sunday 5 Jul",
+          "match": "England v TBC",
+          "competition": "World Cup",
+          "promo": "Bet & Get",
+          "type": "bg",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "image": "",
+          "note": "World Cup match; opponent TBC, design pending"
+        },
+        {
+          "day": "Sunday 5 Jul",
+          "match": "GAA (TBC v TBC)",
+          "competition": "GAA Championship",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/gaelic-games",
+          "image": "",
+          "note": "GAA; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+        }
+      ]
     }
   ],
   "gamingWeeks": [
@@ -1278,6 +2386,115 @@ window.SCH_DATA = {
           "twitter": "⚡ Lights on, it’s showtime! Get your seat at Boyle Live Casino",
           "instagram": "⚡⚡Lights on, it’s showtime! Get your seat at Boyle Live Casino⚡⚡\n\n📲 Click the link in our bio to learn more.",
           "design": "https://app.air.inc/a/b325f4b9f",
+          "facebook_link": "https://games.boylesports.com/live-casino/?btag=55400",
+          "twitter_link": "https://games.boylesports.com/live-casino/?btag=55401",
+          "files": []
+        }
+      ]
+    },
+    {
+      "label": "29 Jun – 5 Jul 2026",
+      "items": [
+        {
+          "section": "Gaming",
+          "name": "Promo World Tour",
+          "type": "Promo",
+          "date": "29 Jun 2026",
+          "meta": "☀️☀️Get Up to 100 FREE SPINS & Join the WORLD TOUR! 👉 More Spins, More Rewards every day. Only at BOYLE Casino!",
+          "twitter": "☀️ Get Up to 100 FREE SPINS & Join the WORLD TOUR! 👉 More Spins, More Rewards every day. Only at BOYLE Casino!",
+          "instagram": "☀️☀️Get Up to 100 FREE SPINS & Join the WORLD TOUR! 👉 More Spins, More Rewards every day. Only at BOYLE Casino!\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/bc8a18d78/b/93f7e9a5-d2da-4597-990f-d7b5c97937a4",
+          "facebook_link": "https://promo.boylesports.com/gaming/promo4/game38/?btag=55497",
+          "twitter_link": "https://promo.boylesports.com/gaming/promo4/game38/?btag=55498",
+          "files": []
+        },
+        {
+          "section": "Gaming",
+          "name": "Fury of Anubis",
+          "type": "New Game Release",
+          "date": "30 Jun 2026",
+          "meta": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩",
+          "twitter": "🤩 New Game Release at BOYLE Casino!",
+          "instagram": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b11c69f3c/b/dd85e320-83cf-4b3f-b868-bc2e4142d405",
+          "facebook_link": "https://games.boylesports.com/games/Fury-of-Anubis/?btag=52901",
+          "twitter_link": "https://games.boylesports.com/games/Fury-of-Anubis/?btag=52962",
+          "files": []
+        },
+        {
+          "section": "Gaming",
+          "name": "Multifly 2 Multimax",
+          "type": "New Game Release",
+          "date": "1 Jul 2026",
+          "meta": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩",
+          "twitter": "🤩 New Game Release at BOYLE Casino!",
+          "instagram": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b0591671b",
+          "facebook_link": "https://games.boylesports.com/games/Multifly-2-Multimax/?btag=52901",
+          "twitter_link": "https://games.boylesports.com/games/Multifly-2-Multimax/?btag=52962",
+          "files": []
+        },
+        {
+          "section": "Gaming",
+          "name": "Big Bass Secrets of the Golden Lake",
+          "type": "Game of the Week",
+          "date": "2 Jul 2026",
+          "meta": "✨✨Game of the Week at BOYLE Casino! ✨✨",
+          "twitter": "✨ Game of the Week at BOYLE Casino!",
+          "instagram": "✨✨Game of the Week at BOYLE Casino! ✨✨\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b54023208/b/dec2c06f-3d6c-4970-a3d5-0d25e65681d2",
+          "facebook_link": "https://games.boylesports.com/games/big-bass-secrets-of-the-golden-lake/?btag=52901",
+          "twitter_link": "https://games.boylesports.com/games/big-bass-secrets-of-the-golden-lake/?btag=52962",
+          "files": []
+        },
+        {
+          "section": "Gaming",
+          "name": "Eagle Cash Collect and Link",
+          "type": "New Game Release",
+          "date": "3 Jul 2026",
+          "meta": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩",
+          "twitter": "🤩 New Game Release at BOYLE Casino!",
+          "instagram": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b4fc2a1e3",
+          "facebook_link": "https://games.boylesports.com/games/Eagle-Cash-Collect-and- Link/?btag=52901",
+          "twitter_link": "https://games.boylesports.com/games/Eagle-Cash-Collect-and- Link/?btag=52962",
+          "files": []
+        },
+        {
+          "section": "Live Casino",
+          "name": "World Cup Drops",
+          "type": "Promo",
+          "date": "3 Jul 2026",
+          "meta": "🔝🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!🔝🔝",
+          "twitter": "🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!",
+          "instagram": "🔝🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!🔝🔝\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://boylesports.sharepoint.com/sites/DesignTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDesignTeam%2FShared%20Documents%2F00%5FBack%5FYourself%2F03%5FDigital%2F03%5FGAMING%2F14%5FLive%20Casino%2FWorld%20Cup%20Drops%2FSocial&viewid=1c74581b%2D83eb%2D4158%2D96bc%2Dcbe5821bd850&or=EXCEL%2DWEB%2EBODY%2ENT&ct=1782121226087",
+          "facebook_link": "https://games.boylesports.com/promotions-and-offers/world-cup-drops/?btag=55393",
+          "twitter_link": "https://games.boylesports.com/promotions-and-offers/world-cup-drops/?btag=55394",
+          "files": []
+        },
+        {
+          "section": "Live Casino",
+          "name": "24D Spin Live",
+          "type": "Highlighted Game",
+          "date": "4 Jul 2026",
+          "meta": "✨✨BOYLE Live Casino presents 24D SPIN LIVE✨ ✨",
+          "twitter": "✨ BOYLE Live Casino presents 24D SPIN LIVE",
+          "instagram": "✨✨BOYLE Live Casino presents 24D SPIN LIVE✨ ✨\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b30459a63/b/443c6212-df6f-4dab-8c55-55f1ddb870ab",
+          "facebook_link": "https://games.boylesports.com/games/24d-spin-live/?btag=55400",
+          "twitter_link": "https://games.boylesports.com/games/24d-spin-live/?btag=55401",
+          "files": []
+        },
+        {
+          "section": "Live Casino",
+          "name": "Highlighted Roulettes",
+          "type": "Potpourri",
+          "date": "5 Jul 2026",
+          "meta": "🎤🕺 Real dealers, live tables and roulette action at Boyle Live Casino. 🎤🕺",
+          "twitter": "🎤 Real dealers, live tables and roulette action at Boyle Live Casino.",
+          "instagram": "🎤🕺 Real dealers, live tables and roulette action at Boyle Live Casino. 🎤🕺\n\n📲 Click the link in our bio to learn more.",
+          "design": "https://app.air.inc/a/b4912a2c0/b/10539af5-de21-4022-afad-eb8413bb2500",
           "facebook_link": "https://games.boylesports.com/live-casino/?btag=55400",
           "twitter_link": "https://games.boylesports.com/live-casino/?btag=55401",
           "files": []

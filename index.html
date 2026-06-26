@@ -125,11 +125,14 @@
   .sc-day{font-weight:800;font-size:1.02rem;letter-spacing:-.3px;}
   .sc-day span{color:var(--faint);font-weight:600;font-size:.84rem;}
   .sc-count{font-size:.64rem;font-weight:800;color:var(--blue);background:#eceaff;border:1px solid #d7d2ff;padding:3px 9px;border-radius:20px;white-space:nowrap;}
-  .sc-body{padding:11px 12px 13px;display:flex;flex-direction:column;gap:5px;}
-  .sc-post{display:grid;grid-template-columns:30px 1fr auto;gap:7px;align-items:center;padding:5px 9px;border-radius:7px;background:var(--line-2);border-left:3px solid var(--c-fixture);}
-  .sc-post .t{font-size:.63rem;font-weight:800;color:var(--sub);font-variant-numeric:tabular-nums;}
-  .sc-post .x{font-size:.72rem;line-height:1.3;color:#2b3a49;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;}
-  .sc-tag{font-size:.52rem;font-weight:800;text-transform:uppercase;letter-spacing:.3px;padding:1px 5px;border-radius:5px;flex:none;}
+  .sc-body{padding:6px 13px 12px;display:flex;flex-direction:column;gap:1px;}
+  .sc-post{display:grid;grid-template-columns:34px 1fr;gap:9px;align-items:center;padding:4px 6px;border-radius:6px;transition:background .1s;}
+  .sc-post:hover{background:var(--line-2);}
+  .sc-post .t{font-size:.65rem;font-weight:700;color:var(--faint);font-variant-numeric:tabular-nums;}
+  .sc-post .x{display:flex;align-items:center;gap:9px;min-width:0;font-size:.75rem;line-height:1.3;color:#33404f;}
+  .sc-dot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .sc-post .sc-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .sc-post.minor .sc-text{color:var(--faint);font-weight:400;}
 
   /* calendar page */
   .cal-scroll{overflow-x:auto;}
@@ -180,6 +183,7 @@
 
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(370px,1fr));gap:16px;}
   .card{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column;border-top:3px solid var(--green);}
+  .card-sb{align-self:start;}
   .card-top{display:flex;align-items:center;gap:10px;padding:14px 16px 12px;}
   .badge{font-size:.7rem;font-weight:800;letter-spacing:.3px;padding:4px 10px;border-radius:20px;color:#fff;white-space:nowrap;}
   .b-50{background:var(--b50);color:#3a2700;} .b-25{background:var(--b25);} .b-sb{background:var(--bsb);}
@@ -364,7 +368,7 @@ const MB={
   'stream':['STREAM','#e9edf2','#566377']
 };
 const MB_LEGEND=[['50','50% BBB'],['25','25% BBB'],['sb','Super Boost'],['bg','Bet & Get'],['fb','Free Bet'],['bog','BOG'],['mb','Money Back'],['boost','Boost / Places']];
-const EVENTS=['Royal Ascot','US Open','NBA Finals','GAA Championship','Cheltenham','Aintree','Punchestown','Wimbledon','French Open','Premier League Darts'];
+const EVENTS=['Royal Ascot','US Open','NBA Finals','GAA Championship','GAA','Cheltenham','Aintree','Punchestown','Wimbledon','French Open','Premier League Darts','US Darts Masters','John Deere Classic','Travelers Championship','Irish Derby'];
 function promoType(t){
   if(/50% BBB/i.test(t))return'50';
   if(/25% BBB/i.test(t))return'25';
@@ -453,8 +457,15 @@ function renderHome(){
   // ---- highlights board (matches/promos + campaign content events) ----
   const campByDate={}; ((D.campaign||{}).events||[]).forEach(e=>(campByDate[e.date]=campByDate[e.date]||[]).push(e));
   let shown=0;
+  const epoSeen=new Set(); // EPO is a recurring promo — each subject's EPO badge shows once per week
   const boardHtml=(w.schedule||[]).map(day=>{
-    let entries=deriveDay(day);
+    let entries=deriveDay(day).map(([name,types])=>{
+      if(types.has('epo')){
+        if(epoSeen.has(name)){ const t=new Set(types); t.delete('epo'); return [name,t]; }
+        epoSeen.add(name);
+      }
+      return [name,types];
+    }).filter(([name,types])=> !(name==='EPO' && types.size===0)); // drop the standalone EPO after its first day
     if(q) entries=entries.filter(([name])=>name.toLowerCase().includes(q));
     let camp=campByDate[day.date]||[];
     if(q) camp=camp.filter(e=>match(e,q));
@@ -500,10 +511,9 @@ function renderSchedule(){
     if(!posts.length)return'';
     total+=posts.length;
     const ab=day.label.split(' '); // [Weekday, DD, Mon]
-    const rows=posts.map(p=>`<div class="sc-post" style="border-left-color:${CATCOLOR[p.cat]||'#ccc'}">
+    const rows=posts.map(p=>`<div class="sc-post ${p.cat==='fallout'||p.cat==='schedule'?'minor':''}">
         <span class="t">${esc(p.time)}</span>
-        <span class="x" title="${esc(p.text)}">${esc(p.text)}</span>
-        <span class="sc-tag tag-${p.cat}">${p.cat}</span></div>`).join('');
+        <span class="x"><span class="sc-dot" style="background:${CATCOLOR[p.cat]||'#ccc'}"></span><span class="sc-text" title="${esc(p.text)}">${esc(p.text)}</span></span></div>`).join('');
     return `<div class="sched-card"><div class="sc-head">
         <div class="sc-day">${esc(ab[1]||'')} ${esc(ab[2]||'')} <span>· ${esc(ab[0]||'')}</span></div>
         <span class="sc-count">${posts.length} posts</span></div>
@@ -582,21 +592,26 @@ function renderPromos(){
   $('#promo-list').innerHTML=html||emptyState();
 }
 function promoCard(p){
+  const isSB=p.type==='sb'; // Super Boost: planning-only card — no captions, no platform link
   const air=p.air?`<a class="lk lk-air" href="${esc(p.air)}" target="_blank" rel="noopener">${ICON('air')} Open Design File</a>`
                   :`<span class="lk disabled">No design file linked</span>`;
   const bs=p.boylesports?`<a class="lk lk-bs" href="${esc(p.boylesports)}" target="_blank" rel="noopener">${ICON('ext')} Open Platform Link</a>`
                         :`<span class="lk disabled">No platform link</span>`;
   const caps=[];
-  if(p.twitter)caps.push(cap('tw','Twitter / X',p.twitter));
-  if(p.facebook)caps.push(cap('fb','Facebook',p.facebook));
+  if(!isSB){
+    if(p.twitter)caps.push(cap('tw','Twitter / X',p.twitter));
+    if(p.facebook)caps.push(cap('fb','Facebook',p.facebook));
+  }
   const note=p.note?`<div class="card-note">${esc(p.note)}</div>`:'';
-  return `<div class="card" data-search="${esc((p.match+' '+p.promo+' '+p.competition).toLowerCase())}">
+  const body=isSB?'':`<div class="card-body">${caps.join('')}</div>`;
+  const foot=isSB ? `<div class="card-foot">${air}</div>` : `<div class="card-foot">${air}${bs}</div>`;
+  return `<div class="card${isSB?' card-sb':''}" data-search="${esc((p.match+' '+p.promo+' '+p.competition).toLowerCase())}">
     <div class="card-top"><span class="badge ${promoBadge(p.type)}">${esc(p.promo)}</span>
       <div class="mn">${esc(p.match)}<small>${esc(p.competition||'')}</small></div></div>
     ${promoPreview(p)}
-    <div class="card-body">${caps.join('')}</div>
+    ${body}
     ${note}
-    <div class="card-foot">${air}${bs}</div></div>`;
+    ${foot}</div>`;
 }
 
 /* ================= GAMING ================= */
@@ -621,6 +636,10 @@ function renderGaming(){
   const q=state.q;
   let items=weekItems.filter(g=>(state.gamingFilter==='all'||g.section===state.gamingFilter)&&match(g,q));
   $('#gaming-count').textContent=items.length+' of '+weekItems.length;
+  if(!weekItems.length){
+    $('#gaming-list').innerHTML=`<div class="empty"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg><div>No gaming offers added for ${esc((weeks[state.week]||{}).label||'this week')} yet.<br>Send the gaming spreadsheet and I'll fill it in.</div></div>`;
+    return;
+  }
   // order by go-live date, single continuous grid (3 per row) — date shown on each card
   items=items.slice().sort((a,b)=>parseGDate(a.date)-parseGDate(b.date));
   $('#gaming-list').innerHTML = items.length
