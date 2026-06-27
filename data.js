@@ -953,22 +953,22 @@ window.SCH_DATA = {
             },
             {
               "time": "10:00",
-              "text": "Round of 32 - 22:00 Match",
+              "text": "France v Sweden",
               "cat": "fixture"
             },
             {
               "time": "10:30",
-              "text": "50% BBB - Round of 32 22:00 Match",
+              "text": "50% BBB - France v Sweden",
               "cat": "promo"
             },
             {
               "time": "11:30",
-              "text": "Round of 32 - 18:00 Match",
+              "text": "Ivory Coast v Norway",
               "cat": "fixture"
             },
             {
               "time": "12:00",
-              "text": "Super Boost - Round of 32 18:00 Match",
+              "text": "Super Boost - Ivory Coast v Norway",
               "cat": "promo"
             },
             {
@@ -983,7 +983,7 @@ window.SCH_DATA = {
             },
             {
               "time": "16:30",
-              "text": "Round of 32 - 18:00 Match",
+              "text": "Ivory Coast v Norway",
               "cat": "fixture"
             },
             {
@@ -993,7 +993,7 @@ window.SCH_DATA = {
             },
             {
               "time": "17:30",
-              "text": "Super Boost - Round of 32 18:00 Match",
+              "text": "Super Boost - Ivory Coast v Norway",
               "cat": "promo"
             },
             {
@@ -1013,7 +1013,7 @@ window.SCH_DATA = {
             },
             {
               "time": "20:30",
-              "text": "Round of 32 - 22:00 Match",
+              "text": "France v Sweden",
               "cat": "fixture"
             },
             {
@@ -1023,7 +1023,7 @@ window.SCH_DATA = {
             },
             {
               "time": "21:30",
-              "text": "50% BBB - Round of 32 22:00 Match",
+              "text": "50% BBB - France v Sweden",
               "cat": "promo"
             }
           ]
@@ -1241,7 +1241,7 @@ window.SCH_DATA = {
             },
             {
               "time": "03:00",
-              "text": "Round of 32 - 04:00 Match",
+              "text": "Switzerland v Iran",
               "cat": "fixture"
             },
             {
@@ -1256,22 +1256,22 @@ window.SCH_DATA = {
             },
             {
               "time": "10:00",
-              "text": "Argentina v TBC",
+              "text": "Argentina v Cape Verde",
               "cat": "fixture"
             },
             {
               "time": "10:30",
-              "text": "50% BBB - Argentina v TBC",
+              "text": "50% BBB - Argentina v Cape Verde",
               "cat": "promo"
             },
             {
               "time": "11:30",
-              "text": "Round of 32 - 19:00 Match",
+              "text": "Australia v Egypt",
               "cat": "fixture"
             },
             {
               "time": "12:00",
-              "text": "Super Boost - Round of 32 19:00 Match",
+              "text": "Super Boost - Australia v Egypt",
               "cat": "promo"
             },
             {
@@ -1296,7 +1296,7 @@ window.SCH_DATA = {
             },
             {
               "time": "17:30",
-              "text": "Round of 32 - 19:00 Match",
+              "text": "Australia v Egypt",
               "cat": "fixture"
             },
             {
@@ -1306,7 +1306,7 @@ window.SCH_DATA = {
             },
             {
               "time": "18:30",
-              "text": "Super Boost - Round of 32 19:00 Match",
+              "text": "Super Boost - Australia v Egypt",
               "cat": "promo"
             },
             {
@@ -1326,7 +1326,7 @@ window.SCH_DATA = {
             },
             {
               "time": "21:30",
-              "text": "Argentina v TBC",
+              "text": "Argentina v Cape Verde",
               "cat": "fixture"
             },
             {
@@ -1336,7 +1336,7 @@ window.SCH_DATA = {
             },
             {
               "time": "22:30",
-              "text": "50% BBB - Argentina v TBC",
+              "text": "50% BBB - Argentina v Cape Verde",
               "cat": "promo"
             }
           ]
@@ -1962,7 +1962,7 @@ window.SCH_DATA = {
           "type": "bg",
           "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Germany v Paraguay in the World Cup.\n\nTap below to opt in.",
           "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Germany v Paraguay in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "air": "https://app.air.inc/b/social-f35cb1e3-5669-402c-ba85-4e360e76a19b/c/be56fd8c-f685-421c-adeb-ccb169b51017",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
           "note": ""
@@ -1995,42 +1995,42 @@ window.SCH_DATA = {
         },
         {
           "day": "Tuesday 30 Jun",
-          "match": "Round of 32 (18:00)",
+          "match": "Ivory Coast v Norway (18:00)",
           "competition": "World Cup — Round of 32",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for Round of 32 (18:00) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for Round of 32 (18:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for Ivory Coast v Norway (18:00) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Ivory Coast v Norway (18:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/ivory-coast-v-norway",
           "image": "",
-          "note": "World Cup R32; match TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Tuesday 30 Jun",
-          "match": "22:00 Match",
+          "match": "France v Sweden (22:00)",
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost on 22:00 Match in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost on 22:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as France take on Sweden in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as France take on Sweden in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/france-v-sweden",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/france-v-sweden",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": ""
         },
         {
           "day": "Tuesday 30 Jun",
-          "match": "TBC v Mexico",
+          "match": "Mexico v Ecuador (02:00)",
           "competition": "World Cup",
           "promo": "25% BBB",
           "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost on TBC v Mexico in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost on TBC v Mexico in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico take on Ecuador in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico take on Ecuador in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-ecuador",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-ecuador",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": ""
         },
         {
           "day": "Wednesday 1 Jul",
@@ -2138,42 +2138,42 @@ window.SCH_DATA = {
         },
         {
           "day": "Friday 3 Jul",
-          "match": "19:00 Match",
+          "match": "Australia v Egypt (19:00)",
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for 19:00 Match in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for 19:00 Match in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for Australia v Egypt (19:00) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Australia v Egypt (19:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/australia-v-egypt",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Friday 3 Jul",
-          "match": "Argentina v TBC",
+          "match": "Argentina v Cape Verde (23:00)",
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost on Argentina v TBC in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost on Argentina v TBC in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina take on Cape Verde in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina take on Cape Verde in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-cape-verde",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-cape-verde",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": ""
         },
         {
           "day": "Friday 3 Jul",
-          "match": "02:30 Match",
+          "match": "Switzerland v Iran (04:00)",
           "competition": "World Cup",
           "promo": "25% BBB",
           "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost on 02:30 Match in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost on 02:30 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Iran in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Iran in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-iran",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-iran",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": ""
         },
         {
           "day": "Saturday 4 Jul",
