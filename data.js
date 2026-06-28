@@ -1054,22 +1054,22 @@ window.SCH_DATA = {
             },
             {
               "time": "10:00",
-              "text": "England v TBC",
+              "text": "England v DR Congo",
               "cat": "fixture"
             },
             {
               "time": "10:30",
-              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "text": "Bet 5 Get 5 - England v DR Congo Bet Builders",
               "cat": "promo"
             },
             {
               "time": "11:30",
-              "text": "England v TBC",
+              "text": "England v DR Congo",
               "cat": "fixture"
             },
             {
               "time": "12:00",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - England v DR Congo",
               "cat": "promo"
             },
             {
@@ -1094,7 +1094,7 @@ window.SCH_DATA = {
             },
             {
               "time": "15:30",
-              "text": "England v TBC",
+              "text": "England v DR Congo",
               "cat": "fixture"
             },
             {
@@ -1104,12 +1104,12 @@ window.SCH_DATA = {
             },
             {
               "time": "16:30",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - England v DR Congo",
               "cat": "promo"
             },
             {
               "time": "16:45",
-              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "text": "Bet 5 Get 5 - England v DR Congo Bet Builders",
               "cat": "promo"
             },
             {
@@ -1119,7 +1119,7 @@ window.SCH_DATA = {
             },
             {
               "time": "20:00",
-              "text": "Round of 32 - 21:00 Match",
+              "text": "Belgium v Senegal",
               "cat": "fixture"
             }
           ]
@@ -1347,7 +1347,7 @@ window.SCH_DATA = {
           "posts": [
             {
               "time": "01:30",
-              "text": "Round of 32 - 02:30 Match",
+              "text": "Colombia v Ghana",
               "cat": "fixture"
             },
             {
@@ -1965,7 +1965,7 @@ window.SCH_DATA = {
           "air": "https://app.air.inc/b/social-f35cb1e3-5669-402c-ba85-4e360e76a19b/c/be56fd8c-f685-421c-adeb-ccb169b51017",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": ""
+          "note": "World Cup match; fixture confirmed, design pending"
         },
         {
           "day": "Monday 29 Jun",
@@ -1996,7 +1996,7 @@ window.SCH_DATA = {
         {
           "day": "Tuesday 30 Jun",
           "match": "Ivory Coast v Norway (18:00)",
-          "competition": "World Cup — Round of 32",
+          "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
           "twitter": "🚀 Super Boost available for Ivory Coast v Norway (18:00) in the World Cup!\n\nTap below to view the boost",
@@ -2034,16 +2034,16 @@ window.SCH_DATA = {
         },
         {
           "day": "Wednesday 1 Jul",
-          "match": "England v TBC",
+          "match": "England v DR Congo (17:00)",
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for England v TBC in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for England v TBC in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for England v DR Congo (17:00) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for England v DR Congo (17:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/england-v-dr-congo",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Wednesday 1 Jul",
@@ -2060,16 +2060,16 @@ window.SCH_DATA = {
         },
         {
           "day": "Wednesday 1 Jul",
-          "match": "England v TBC",
+          "match": "England v DR Congo (17:00)",
           "competition": "World Cup",
           "promo": "Bet & Get",
           "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo (17:00) in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo (17:00) in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending"
+          "note": "World Cup match; 17:00 kick-off, fixture confirmed, design pending"
         },
         {
           "day": "Wednesday 1 Jul",
@@ -2087,11 +2087,11 @@ window.SCH_DATA = {
         {
           "day": "Thursday 2 Jul",
           "match": "Bosnia v USA (01:00)",
-          "competition": "World Cup — Round of 32",
+          "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on the USA in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on the USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on co-hosts the USA in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on co-hosts the USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
           "image": "",
@@ -2108,7 +2108,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
         },
         {
           "day": "Thursday 2 Jul",
@@ -2121,7 +2121,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
         },
         {
           "day": "Thursday 2 Jul",
@@ -2164,6 +2164,19 @@ window.SCH_DATA = {
         },
         {
           "day": "Friday 3 Jul",
+          "match": "Portugal v Croatia (00:00)",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Portugal take on Croatia in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Portugal take on Croatia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-croatia",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-croatia",
+          "image": "",
+          "note": ""
+        },
+        {
+          "day": "Friday 3 Jul",
           "match": "Switzerland v Iran (04:00)",
           "competition": "World Cup",
           "promo": "25% BBB",
@@ -2177,16 +2190,16 @@ window.SCH_DATA = {
         },
         {
           "day": "Saturday 4 Jul",
-          "match": "18:00 Match",
+          "match": "Colombia v Ghana (02:30)",
           "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost on 18:00 Match in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost on 18:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as Colombia take on Ghana in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as Colombia take on Ghana in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": ""
         },
         {
           "day": "Saturday 4 Jul",
@@ -2199,7 +2212,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
         },
         {
           "day": "Saturday 4 Jul",
@@ -2220,12 +2233,12 @@ window.SCH_DATA = {
           "competition": "GAA Championship",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/gaelic-games",
           "image": "",
-          "note": "GAA; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Sunday 5 Jul",
@@ -2238,7 +2251,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Sunday 5 Jul",
@@ -2251,7 +2264,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending"
+          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
         },
         {
           "day": "Sunday 5 Jul",
@@ -2264,7 +2277,7 @@ window.SCH_DATA = {
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending"
+          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
         },
         {
           "day": "Sunday 5 Jul",
@@ -2272,12 +2285,12 @@ window.SCH_DATA = {
           "competition": "GAA Championship",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the GAA Championship!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/gaelic-games",
           "image": "",
-          "note": "GAA; teams TBC, design pending · Super Boost details not yet confirmed — copy to be updated."
+          "note": "Super Boost details not yet confirmed — copy to be updated."
         }
       ]
     }
