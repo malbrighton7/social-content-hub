@@ -2,813 +2,6 @@
 window.SCH_DATA = {
   "weeks": [
     {
-      "label": "22–28 Jun 2026",
-      "commencing": "2026-06-22",
-      "theme": "World Cup 2026 — final group games into the Round of 32 · GAA Championship · Premier League Darts",
-      "updated": "2026-06-18",
-      "priorities": [
-        {
-          "title": "World Cup Round of 32 kicks off",
-          "note": "Knockouts begin over the weekend (27–28 Jun) — Super Boost & BBB on the standout ties.",
-          "level": "high"
-        },
-        {
-          "title": "Final World Cup group games",
-          "note": "Group-stage finales run daily Mon–Fri, with simultaneous kick-offs each evening.",
-          "level": "high"
-        },
-        {
-          "title": "GAA Championship",
-          "note": "Weekend GAA coverage — editorial plus offers across Sat/Sun.",
-          "level": "med"
-        },
-        {
-          "title": "Premier League Darts",
-          "note": "Midweek darts-night block — 16:00 lead-in, no day-before advance.",
-          "level": "med"
-        }
-      ],
-      "schedule": [
-        {
-          "date": "2026-06-22",
-          "label": "Monday 22 Jun",
-          "posts": [
-            {
-              "time": "00:30",
-              "text": "New Zealand v Egypt",
-              "cat": "fixture"
-            },
-            {
-              "time": "01:30",
-              "text": "25% BBB - New Zealand v Egypt",
-              "cat": "promo"
-            },
-            {
-              "time": "08:00",
-              "text": "World Cup 2026 - New Zealand v Egypt fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "09:00",
-              "text": "World Cup 2026 - Day 12 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Argentina v Austria",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "25% BBB - Argentina v Austria",
-              "cat": "promo"
-            },
-            {
-              "time": "11:00",
-              "text": "France v Iraq",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:30",
-              "text": "50% BBB - France v Iraq",
-              "cat": "promo"
-            },
-            {
-              "time": "16:30",
-              "text": "Argentina v Austria",
-              "cat": "fixture"
-            },
-            {
-              "time": "17:00",
-              "text": "Lineups - Argentina v Austria",
-              "cat": "lineups"
-            },
-            {
-              "time": "17:30",
-              "text": "25% BBB - Argentina v Austria",
-              "cat": "promo"
-            },
-            {
-              "time": "18:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "19:30",
-              "text": "England v Ghana",
-              "cat": "fixture"
-            },
-            {
-              "time": "20:00",
-              "text": "Super Boost - England v Ghana",
-              "cat": "promo"
-            },
-            {
-              "time": "20:30",
-              "text": "France v Iraq",
-              "cat": "fixture"
-            },
-            {
-              "time": "21:00",
-              "text": "Lineups - France v Iraq",
-              "cat": "lineups"
-            },
-            {
-              "time": "21:30",
-              "text": "50% BBB - France v Iraq",
-              "cat": "promo"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-23",
-          "label": "Tuesday 23 Jun",
-          "posts": [
-            {
-              "time": "00:00",
-              "text": "Norway v Senegal",
-              "cat": "fixture"
-            },
-            {
-              "time": "03:00",
-              "text": "Jordan v Algeria",
-              "cat": "fixture"
-            },
-            {
-              "time": "08:00",
-              "text": "World Cup 2026 - fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "09:00",
-              "text": "World Cup 2026 - Day 13 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Portugal v Uzbekistan",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "25% BBB - Portugal v Uzbekistan",
-              "cat": "promo"
-            },
-            {
-              "time": "11:30",
-              "text": "England v Ghana",
-              "cat": "fixture"
-            },
-            {
-              "time": "12:00",
-              "text": "Super Boost - England v Ghana",
-              "cat": "promo"
-            },
-            {
-              "time": "12:30",
-              "text": "Bet 5 Get 5 - England v Ghana Bet Builder",
-              "cat": "promo"
-            },
-            {
-              "time": "16:30",
-              "text": "Portugal v Uzbekistan",
-              "cat": "fixture"
-            },
-            {
-              "time": "17:00",
-              "text": "Lineups - Portugal v Uzbekistan",
-              "cat": "lineups"
-            },
-            {
-              "time": "17:30",
-              "text": "25% BBB - Portugal v Uzbekistan",
-              "cat": "promo"
-            },
-            {
-              "time": "18:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "19:30",
-              "text": "England v Ghana",
-              "cat": "fixture"
-            },
-            {
-              "time": "20:00",
-              "text": "Lineups - England v Ghana",
-              "cat": "lineups"
-            },
-            {
-              "time": "20:30",
-              "text": "Super Boost - England v Ghana",
-              "cat": "promo"
-            },
-            {
-              "time": "20:45",
-              "text": "Bet 5 Get 5 - England v Ghana Bet Builder",
-              "cat": "promo"
-            },
-            {
-              "time": "21:30",
-              "text": "Scotland v Brazil",
-              "cat": "fixture"
-            },
-            {
-              "time": "22:00",
-              "text": "Super Boost - Scotland v Brazil",
-              "cat": "promo"
-            },
-            {
-              "time": "22:30",
-              "text": "Panama v Croatia",
-              "cat": "fixture"
-            },
-            {
-              "time": "23:00",
-              "text": "Lineups - Panama v Croatia",
-              "cat": "lineups"
-            },
-            {
-              "time": "23:00",
-              "text": "England v Ghana fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "23:30",
-              "text": "\"Bet 5 In-Play, Get £5 Free Bet - Panama v Croatia\"",
-              "cat": "promo"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-24",
-          "label": "Wednesday 24 Jun",
-          "posts": [
-            {
-              "time": "02:00",
-              "text": "Colombia v DR Congo",
-              "cat": "fixture"
-            },
-            {
-              "time": "08:00",
-              "text": "World Cup 2026 - Panama v Croatia fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "09:00",
-              "text": "World Cup 2026 - Day 14 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Switzerland v Canada",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "50% BBB - Switzerland v Canada",
-              "cat": "promo"
-            },
-            {
-              "time": "11:00",
-              "text": "Bosnia & Herzegovina v Qatar",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:30",
-              "text": "25% BBB - Bosnia & Herzegovina v Qatar",
-              "cat": "promo"
-            },
-            {
-              "time": "12:00",
-              "text": "Scotland v Brazil",
-              "cat": "fixture"
-            },
-            {
-              "time": "12:30",
-              "text": "Super Boost - Scotland v Brazil",
-              "cat": "promo"
-            },
-            {
-              "time": "13:00",
-              "text": "Travelers Championship",
-              "cat": "fixture"
-            },
-            {
-              "time": "13:30",
-              "text": "Travelers Championship - 10 Places",
-              "cat": "promo"
-            },
-            {
-              "time": "14:00",
-              "text": "Travelers Championship - Premium Boost",
-              "cat": "promo"
-            },
-            {
-              "time": "18:30",
-              "text": "Switzerland v Canada",
-              "cat": "fixture"
-            },
-            {
-              "time": "19:00",
-              "text": "Lineups - Switzerland v Canada",
-              "cat": "lineups"
-            },
-            {
-              "time": "19:30",
-              "text": "50% BBB - Switzerland v Canada",
-              "cat": "promo"
-            },
-            {
-              "time": "19:45",
-              "text": "25% BBB - Bosnia & Herzegovina v Qatar",
-              "cat": "promo"
-            },
-            {
-              "time": "20:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "21:30",
-              "text": "Scotland v Brazil",
-              "cat": "fixture"
-            },
-            {
-              "time": "22:00",
-              "text": "Lineups - Scotland v Brazil",
-              "cat": "lineups"
-            },
-            {
-              "time": "22:00",
-              "text": "Morocco v Haiti",
-              "cat": "fixture"
-            },
-            {
-              "time": "22:30",
-              "text": "Super Boost - Scotland v Brazil",
-              "cat": "promo"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-25",
-          "label": "Thursday 25 Jun",
-          "posts": [
-            {
-              "time": "00:30",
-              "text": "South Africa v South Korea",
-              "cat": "fixture"
-            },
-            {
-              "time": "00:30",
-              "text": "Czech Republic v Mexico",
-              "cat": "fixture"
-            },
-            {
-              "time": "01:30",
-              "text": "25% BBB - South Africa v South Korea",
-              "cat": "promo"
-            },
-            {
-              "time": "01:30",
-              "text": "25% BBB - Czech Republic v Mexico",
-              "cat": "promo"
-            },
-            {
-              "time": "08:00",
-              "text": "World Cup 2026 - fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "09:00",
-              "text": "World Cup 2026 - Day 15 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Ecuador v Germany",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "50% BBB - Ecuador v Germany",
-              "cat": "promo"
-            },
-            {
-              "time": "11:00",
-              "text": "Curacao v Ivory Coast",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:30",
-              "text": "25% BBB - Curacao v Ivory Coast",
-              "cat": "promo"
-            },
-            {
-              "time": "15:00",
-              "text": "US Darts Masters",
-              "cat": "fixture"
-            },
-            {
-              "time": "15:15",
-              "text": "EPO - US Darts Masters",
-              "cat": "promo"
-            },
-            {
-              "time": "15:30",
-              "text": "Price Boost - US Darts Masters",
-              "cat": "promo"
-            },
-            {
-              "time": "19:30",
-              "text": "Ecuador v Germany",
-              "cat": "fixture"
-            },
-            {
-              "time": "20:00",
-              "text": "Lineups - Ecuador v Germany",
-              "cat": "lineups"
-            },
-            {
-              "time": "20:30",
-              "text": "50% BBB - Ecuador v Germany",
-              "cat": "promo"
-            },
-            {
-              "time": "20:45",
-              "text": "25% BBB - Curacao v Ivory Coast",
-              "cat": "promo"
-            },
-            {
-              "time": "21:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "22:30",
-              "text": "Tunisia v Netherlands",
-              "cat": "fixture"
-            },
-            {
-              "time": "22:30",
-              "text": "Japan v Sweden",
-              "cat": "fixture"
-            },
-            {
-              "time": "23:30",
-              "text": "25% BBB - Tunisia v Netherlands",
-              "cat": "promo"
-            },
-            {
-              "time": "23:30",
-              "text": "25% BBB - Japan v Sweden",
-              "cat": "promo"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-26",
-          "label": "Friday 26 Jun",
-          "posts": [
-            {
-              "time": "02:00",
-              "text": "Turkey v USA",
-              "cat": "fixture"
-            },
-            {
-              "time": "02:00",
-              "text": "Paraguay v Australia",
-              "cat": "fixture"
-            },
-            {
-              "time": "08:00",
-              "text": "World Cup 2026 - Tunisia v Netherlands fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "09:00",
-              "text": "World Cup 2026 - Day 16 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Senegal v Iraq",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "50% BBB - Senegal v Iraq",
-              "cat": "promo"
-            },
-            {
-              "time": "11:00",
-              "text": "Norway v France",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:30",
-              "text": "Bet 5 Get 5 - Norway v France Bet Builders",
-              "cat": "promo"
-            },
-            {
-              "time": "15:00",
-              "text": "US Darts Masters",
-              "cat": "fixture"
-            },
-            {
-              "time": "15:15",
-              "text": "EPO - US Darts Masters",
-              "cat": "promo"
-            },
-            {
-              "time": "15:30",
-              "text": "Price Boost - US Darts Masters",
-              "cat": "promo"
-            },
-            {
-              "time": "18:30",
-              "text": "Senegal v Iraq",
-              "cat": "fixture"
-            },
-            {
-              "time": "19:00",
-              "text": "Lineups - Senegal v Iraq",
-              "cat": "lineups"
-            },
-            {
-              "time": "19:30",
-              "text": "50% BBB - Senegal v Iraq",
-              "cat": "promo"
-            },
-            {
-              "time": "19:45",
-              "text": "Bet 5 Get 5 - Norway v France Bet Builders",
-              "cat": "promo"
-            },
-            {
-              "time": "20:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "21:00",
-              "text": "Panama v England",
-              "cat": "fixture"
-            },
-            {
-              "time": "21:30",
-              "text": "Super Boost - Panama v England",
-              "cat": "promo"
-            },
-            {
-              "time": "23:30",
-              "text": "Uruguay v Spain",
-              "cat": "fixture"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-27",
-          "label": "Saturday 27 Jun",
-          "posts": [
-            {
-              "time": "00:00",
-              "text": "Cape Verde v Saudi Arabia",
-              "cat": "fixture"
-            },
-            {
-              "time": "00:30",
-              "text": "25% BBB - Uruguay v Spain",
-              "cat": "promo"
-            },
-            {
-              "time": "02:30",
-              "text": "New Zealand v Belgium",
-              "cat": "fixture"
-            },
-            {
-              "time": "02:30",
-              "text": "Egypt v Iran",
-              "cat": "fixture"
-            },
-            {
-              "time": "03:30",
-              "text": "25% BBB - New Zealand v Belgium",
-              "cat": "promo"
-            },
-            {
-              "time": "03:30",
-              "text": "25% BBB - Egypt v Iran",
-              "cat": "promo"
-            },
-            {
-              "time": "07:45",
-              "text": "World Cup 2026 - Uruguay v Spain fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "08:00",
-              "text": "BOG - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "08:15",
-              "text": "Irish Derby Weekend schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "08:30",
-              "text": "MBAL - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "09:00",
-              "text": "Super Boost - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "09:30",
-              "text": "World Cup 2026 - Day 17 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "09:45",
-              "text": "World Cup 2026 - Final Group Stage Day",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:00",
-              "text": "GAA Championship",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:15",
-              "text": "GAA Championship Super Boost",
-              "cat": "promo"
-            },
-            {
-              "time": "12:00",
-              "text": "GAA Football Preliminary Quarter-Final",
-              "cat": "fixture"
-            },
-            {
-              "time": "13:00",
-              "text": "Panama v England",
-              "cat": "fixture"
-            },
-            {
-              "time": "13:30",
-              "text": "Super Boost - Panama v England",
-              "cat": "promo"
-            },
-            {
-              "time": "14:00",
-              "text": "Completely Free Bet - Panama v England",
-              "cat": "promo"
-            },
-            {
-              "time": "20:30",
-              "text": "Panama v England",
-              "cat": "fixture"
-            },
-            {
-              "time": "21:00",
-              "text": "Lineups - Panama v England",
-              "cat": "lineups"
-            },
-            {
-              "time": "21:00",
-              "text": "Croatia v Ghana",
-              "cat": "fixture"
-            },
-            {
-              "time": "21:30",
-              "text": "Super Boost - Panama v England",
-              "cat": "promo"
-            },
-            {
-              "time": "21:45",
-              "text": "Completely Free Bet - Panama v England",
-              "cat": "promo"
-            },
-            {
-              "time": "22:00",
-              "text": "EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "23:30",
-              "text": "Colombia v Portugal",
-              "cat": "fixture"
-            },
-            {
-              "time": "23:30",
-              "text": "DR Congo v Uzbekistan",
-              "cat": "fixture"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-28",
-          "label": "Sunday 28 Jun",
-          "posts": [
-            {
-              "time": "02:00",
-              "text": "Algeria v Austria",
-              "cat": "fixture"
-            },
-            {
-              "time": "02:00",
-              "text": "Jordan v Argentina",
-              "cat": "fixture"
-            },
-            {
-              "time": "07:45",
-              "text": "World Cup 2026 - fallout",
-              "cat": "fallout"
-            },
-            {
-              "time": "08:00",
-              "text": "BOG - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "08:15",
-              "text": "Irish Derby Weekend schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "08:30",
-              "text": "MB2nd - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "09:00",
-              "text": "Super Boost - Irish Derby Weekend",
-              "cat": "promo"
-            },
-            {
-              "time": "09:30",
-              "text": "World Cup 2026 - Day 18 schedule",
-              "cat": "schedule"
-            },
-            {
-              "time": "09:45",
-              "text": "World Cup 2026 - Round of 32 begins",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:00",
-              "text": "GAA Championship",
-              "cat": "fixture"
-            },
-            {
-              "time": "11:15",
-              "text": "GAA Championship Super Boost",
-              "cat": "promo"
-            },
-            {
-              "time": "12:00",
-              "text": "GAA Football Preliminary Quarter-Final",
-              "cat": "fixture"
-            },
-            {
-              "time": "13:00",
-              "text": "Round of 32 - Group A Runners-up v Group B Runners-up",
-              "cat": "fixture"
-            },
-            {
-              "time": "13:30",
-              "text": "50% BBB - TBC",
-              "cat": "promo"
-            },
-            {
-              "time": "18:30",
-              "text": "Round of 32 - Group A Runners-up v Group B Runners-up",
-              "cat": "fixture"
-            },
-            {
-              "time": "19:00",
-              "text": "Lineups - Round of 32 - Group A Runners-up v Group B Runners-up",
-              "cat": "lineups"
-            },
-            {
-              "time": "19:30",
-              "text": "50% BBB - TBC",
-              "cat": "promo"
-            },
-            {
-              "time": "20:00",
-              "text": "EPO",
-              "cat": "promo"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "29 Jun – 5 Jul 2026",
       "commencing": "2026-06-29",
       "theme": "World Cup Round of 32 · Wimbledon fortnight · GAA Championship",
@@ -917,12 +110,12 @@ window.SCH_DATA = {
             },
             {
               "time": "21:30",
-              "text": "Round of 32 - 18:00 Match",
+              "text": "Ivory Coast v Norway",
               "cat": "fixture"
             },
             {
               "time": "22:00",
-              "text": "Super Boost - Round of 32 18:00 Match",
+              "text": "Super Boost - Ivory Coast v Norway",
               "cat": "promo"
             }
           ]
@@ -1003,12 +196,12 @@ window.SCH_DATA = {
             },
             {
               "time": "19:00",
-              "text": "England v TBC",
+              "text": "England v DR Congo",
               "cat": "fixture"
             },
             {
               "time": "19:30",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - England v DR Congo",
               "cat": "promo"
             },
             {
@@ -1034,12 +227,12 @@ window.SCH_DATA = {
           "posts": [
             {
               "time": "00:30",
-              "text": "TBC v Mexico",
+              "text": "Mexico v Ecuador",
               "cat": "fixture"
             },
             {
               "time": "01:30",
-              "text": "25% BBB - TBC v Mexico",
+              "text": "25% BBB - Mexico v Ecuador",
               "cat": "promo"
             },
             {
@@ -1118,9 +311,29 @@ window.SCH_DATA = {
               "cat": "promo"
             },
             {
-              "time": "20:00",
+              "time": "18:00",
               "text": "Belgium v Senegal",
               "cat": "fixture"
+            },
+            {
+              "time": "18:30",
+              "text": "50% BBB - Belgium v Senegal",
+              "cat": "promo"
+            },
+            {
+              "time": "19:30",
+              "text": "Belgium v Senegal",
+              "cat": "fixture"
+            },
+            {
+              "time": "20:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "20:30",
+              "text": "50% BBB - Belgium v Senegal",
+              "cat": "promo"
             }
           ]
         },
@@ -1130,32 +343,17 @@ window.SCH_DATA = {
           "posts": [
             {
               "time": "00:00",
-              "text": "Bosnia v USA",
+              "text": "USA v Bosnia",
               "cat": "fixture"
-            },
-            {
-              "time": "00:15",
-              "text": "Lineups",
-              "cat": "lineups"
             },
             {
               "time": "00:30",
-              "text": "50% BBB - Bosnia v USA",
-              "cat": "promo"
-            },
-            {
-              "time": "02:30",
-              "text": "Round of 32 - 04:00 Match",
-              "cat": "fixture"
-            },
-            {
-              "time": "03:30",
-              "text": "25% BBB - Round of 32 04:00 Match",
+              "text": "25% BBB - USA v Bosnia",
               "cat": "promo"
             },
             {
               "time": "08:00",
-              "text": "World Cup 2026 - Bosnia v USA fallout",
+              "text": "World Cup 2026 - USA v Bosnia fallout",
               "cat": "fallout"
             },
             {
@@ -1165,12 +363,12 @@ window.SCH_DATA = {
             },
             {
               "time": "10:00",
-              "text": "Round of 32 - 20:00 Match",
+              "text": "Spain v Austria",
               "cat": "fixture"
             },
             {
               "time": "10:30",
-              "text": "Bet 10 Get 5 - 20:00 Match Bet Builders",
+              "text": "Bet 10 Get 5 - Spain v Austria Bet Builders",
               "cat": "promo"
             },
             {
@@ -1190,7 +388,7 @@ window.SCH_DATA = {
             },
             {
               "time": "18:30",
-              "text": "Round of 32 - 20:00 Match",
+              "text": "Spain v Austria",
               "cat": "fixture"
             },
             {
@@ -1200,7 +398,7 @@ window.SCH_DATA = {
             },
             {
               "time": "19:30",
-              "text": "Bet 10 Get 5 - 20:00 Match Bet Builders",
+              "text": "Bet 10 Get 5 - Spain v Austria Bet Builders",
               "cat": "promo"
             },
             {
@@ -1210,18 +408,28 @@ window.SCH_DATA = {
             },
             {
               "time": "20:30",
-              "text": "Round of 32 - 19:00 Match",
+              "text": "Australia v Egypt",
               "cat": "fixture"
             },
             {
               "time": "21:00",
-              "text": "Super Boost - Round of 32 19:00 Match",
+              "text": "Super Boost - Australia v Egypt",
               "cat": "promo"
             },
             {
-              "time": "23:00",
-              "text": "Round of 32 - 00:00 Match",
+              "time": "22:30",
+              "text": "Portugal v Croatia",
               "cat": "fixture"
+            },
+            {
+              "time": "23:00",
+              "text": "Lineups",
+              "cat": "lineups"
+            },
+            {
+              "time": "23:30",
+              "text": "50% BBB - Portugal v Croatia",
+              "cat": "promo"
             }
           ]
         },
@@ -1230,19 +438,14 @@ window.SCH_DATA = {
           "label": "Friday 3 Jul",
           "posts": [
             {
-              "time": "01:00",
-              "text": "Round of 32 - 02:30 Match",
+              "time": "02:30",
+              "text": "Switzerland v Algeria",
               "cat": "fixture"
             },
             {
-              "time": "02:00",
-              "text": "25% BBB - Round of 32 02:30 Match",
+              "time": "03:30",
+              "text": "25% BBB - Switzerland v Algeria",
               "cat": "promo"
-            },
-            {
-              "time": "03:00",
-              "text": "Switzerland v Iran",
-              "cat": "fixture"
             },
             {
               "time": "08:00",
@@ -1282,16 +485,6 @@ window.SCH_DATA = {
             {
               "time": "13:30",
               "text": "Wimbledon EPO",
-              "cat": "promo"
-            },
-            {
-              "time": "15:00",
-              "text": "Round of 16 - 18:00 Match",
-              "cat": "fixture"
-            },
-            {
-              "time": "15:30",
-              "text": "50% BBB - Round of 16 18:00 Match",
               "cat": "promo"
             },
             {
@@ -1346,9 +539,14 @@ window.SCH_DATA = {
           "label": "Saturday 4 Jul",
           "posts": [
             {
-              "time": "01:30",
+              "time": "01:00",
               "text": "Colombia v Ghana",
               "cat": "fixture"
+            },
+            {
+              "time": "02:00",
+              "text": "25% BBB - Colombia v Ghana",
+              "cat": "promo"
             },
             {
               "time": "08:00",
@@ -1359,16 +557,6 @@ window.SCH_DATA = {
               "time": "09:00",
               "text": "World Cup 2026 - Round of 16 schedule",
               "cat": "schedule"
-            },
-            {
-              "time": "10:00",
-              "text": "Round of 16 - 18:00 Match",
-              "cat": "fixture"
-            },
-            {
-              "time": "10:30",
-              "text": "50% BBB - Round of 16 18:00 Match",
-              "cat": "promo"
             },
             {
               "time": "11:30",
@@ -1406,19 +594,9 @@ window.SCH_DATA = {
               "cat": "promo"
             },
             {
-              "time": "16:30",
+              "time": "17:00",
               "text": "Round of 16 - 18:00 Match",
               "cat": "fixture"
-            },
-            {
-              "time": "17:00",
-              "text": "Lineups",
-              "cat": "lineups"
-            },
-            {
-              "time": "17:30",
-              "text": "50% BBB - Round of 16 18:00 Match",
-              "cat": "promo"
             },
             {
               "time": "18:00",
@@ -1581,351 +759,6 @@ window.SCH_DATA = {
   ],
   "promoWeeks": [
     {
-      "label": "22–28 Jun 2026",
-      "items": [
-        {
-          "day": "Monday 22 Jun",
-          "match": "France v Iraq",
-          "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as France lock horns with Iraq in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as France lock horns with Iraq in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/france-v-iraq",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/france-v-iraq",
-          "image": "images/france-v-iraq.jpg"
-        },
-        {
-          "day": "Monday 22 Jun",
-          "match": "New Zealand v Egypt",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as New Zealand face Egypt in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as New Zealand face Egypt in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/new-zealand-v-egypt",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/new-zealand-v-egypt",
-          "image": "images/new-zealand-v-egypt.jpg"
-        },
-        {
-          "day": "Monday 22 Jun",
-          "match": "Argentina v Austria",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as World Cup holders Argentina take on Austria.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as World Cup holders Argentina take on Austria.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-austria",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-austria",
-          "image": ""
-        },
-        {
-          "day": "Tuesday 23 Jun",
-          "match": "England v Ghana",
-          "competition": "World Cup — Super Boost (detail TBC)",
-          "promo": "Super Boost",
-          "type": "sb",
-          "twitter": "🚀 Super Boost available for England v Ghana in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for England v Ghana in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/sports/football/event/international-world-cup/england-v-ghana",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/england-v-ghana",
-          "image": "images/_sb-england-ghana.jpg",
-          "note": "Super Boost details not yet confirmed — copy to be updated."
-        },
-        {
-          "day": "Tuesday 23 Jun",
-          "match": "Portugal v Uzbekistan",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Portugal go head-to-head with Uzbekistan in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Portugal go head-to-head with Uzbekistan in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-uzbekistan",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-uzbekistan",
-          "image": "images/portugal-v-uzbekistan.jpg"
-        },
-        {
-          "day": "Tuesday 23 Jun",
-          "match": "England v Ghana",
-          "competition": "World Cup",
-          "promo": "Bet & Get",
-          "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v Ghana in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v Ghana in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "https://app.air.inc/b/social-a42619fa-c83f-4633-b83b-c048063d9ae6/c/f036b068-98b1-42cc-8855-f967317dc457",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": "images/england-v-ghana-bb.jpg"
-        },
-        {
-          "day": "Wednesday 24 Jun",
-          "match": "Scotland v Brazil",
-          "competition": "World Cup — Super Boost (detail TBC)",
-          "promo": "Super Boost",
-          "type": "sb",
-          "twitter": "🚀 Super Boost available for Scotland v Brazil in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for Scotland v Brazil in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/sports/football/event/international-world-cup/scotland-v-brazil",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/scotland-v-brazil",
-          "image": "images/_sb-scotland-brazil.jpg",
-          "note": "Super Boost details not yet confirmed — copy to be updated."
-        },
-        {
-          "day": "Wednesday 24 Jun",
-          "match": "Switzerland v Canada",
-          "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Switzerland take on co-hosts Canada in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Switzerland take on co-hosts Canada in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-canada",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-canada",
-          "image": "images/switzerland-v-canada.jpg"
-        },
-        {
-          "day": "Wednesday 24 Jun",
-          "match": "Bosnia v Qatar",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Bosnia meet previous hosts Qatar in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Bosnia meet previous hosts Qatar in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-qatar",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-qatar",
-          "image": "images/bosnia-v-qatar.jpg"
-        },
-        {
-          "day": "Wednesday 24 Jun",
-          "match": "Panama v Croatia",
-          "competition": "World Cup",
-          "promo": "Bet & Get",
-          "type": "bg",
-          "twitter": "Bet £/€5 In-Play and get a £/€2 Free Bet on Panama v Croatia in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Bet £/€5 In-Play and get a £/€2 Free Bet on Panama v Croatia in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "https://app.air.inc/b/social-7dac5bfc-523f-4a02-9946-0c539b6aeb51/c/4faaea14-98f4-485d-bc19-e584c94863c2",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": "images/panama-v-croatia.jpg"
-        },
-        {
-          "day": "Wednesday 24 Jun",
-          "match": "Travelers Championship",
-          "competition": "Golf — Extra Places",
-          "promo": "10 Places",
-          "type": "places",
-          "twitter": "We're paying 10 PLACES instead of 6 on the Travelers Championship.\n\nTap below to view the full market.",
-          "facebook": "We're paying 10 PLACES instead of 6 on the Travelers Championship.\n\n📲 Full market — https://www.boylesports.com/sports/golf",
-          "air": "https://boylesports.sharepoint.com/:i:/s/DesignTeam/IQBpZOhiz89-RJUKIeHO9cyeAYqYT1VIzzeFlf1V3sKy_9s?e=ca7qNj",
-          "boylesports": "https://www.boylesports.com/sports/golf",
-          "image": ""
-        },
-        {
-          "day": "Thursday 25 Jun",
-          "match": "Ecuador v Germany",
-          "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Ecuador take on four-time winners Germany.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Ecuador take on four-time winners Germany.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/ecuador-v-germany",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/ecuador-v-germany",
-          "image": "images/ecuador-v-germany.jpg"
-        },
-        {
-          "day": "Thursday 25 Jun",
-          "match": "Curaçao v Ivory Coast",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Curaçao meet Ivory Coast in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Curaçao meet Ivory Coast in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/curacao-v-ivory-coast",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/curacao-v-ivory-coast",
-          "image": "images/curacao-v-ivory-coast.jpg"
-        },
-        {
-          "day": "Thursday 25 Jun",
-          "match": "South Africa v South Korea",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as South Africa go head-to-head with South Korea in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as South Africa go head-to-head with South Korea in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/south-africa-v-south-korea",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/south-africa-v-south-korea",
-          "image": ""
-        },
-        {
-          "day": "Thursday 25 Jun",
-          "match": "Czechia v Mexico",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Czechia take on co-hosts Mexico in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Czechia take on co-hosts Mexico in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/czechia-v-mexico",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/czechia-v-mexico",
-          "image": ""
-        },
-        {
-          "day": "Thursday 25 Jun",
-          "match": "US Darts Masters",
-          "competition": "Darts — Early Payout",
-          "promo": "EPO",
-          "type": "epo",
-          "twitter": "Stay one step ahead of the drama with BOYLE Sports Early Payout!\n\nGet paid out when your player goes 4 legs ahead, no matter how the match ends.\n\nTap below to find out more.",
-          "facebook": "Stay one step ahead of the drama with BOYLE Sports Early Payout!\n\nGet paid out when your player goes 4 legs ahead, no matter how the match ends.\n\n📲 Find out more — https://www.boylesports.com/sports/darts",
-          "air": "https://app.air.inc/a/bb1a1a751/b/b3d70bfe-517a-4d0d-9f28-955540e3f066/c/9a798cec-0c42-4b74-be62-a5b370749696",
-          "boylesports": "https://www.boylesports.com/sports/darts",
-          "image": "images/us-darts-masters.jpg"
-        },
-        {
-          "day": "Friday 26 Jun",
-          "match": "Senegal v Iraq",
-          "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Senegal do battle with Iraq in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Senegal do battle with Iraq in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/senegal-v-iraq",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/senegal-v-iraq",
-          "image": "images/senegal-v-iraq.jpg"
-        },
-        {
-          "day": "Friday 26 Jun",
-          "match": "Japan v Sweden",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Japan face Sweden in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Japan face Sweden in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/japan-v-sweden",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/japan-v-sweden",
-          "image": ""
-        },
-        {
-          "day": "Friday 26 Jun",
-          "match": "Tunisia v Netherlands",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Tunisia take on the Netherlands in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Tunisia take on the Netherlands in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/tunisia-v-netherlands",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/tunisia-v-netherlands",
-          "image": ""
-        },
-        {
-          "day": "Friday 26 Jun",
-          "match": "Norway v France",
-          "competition": "World Cup",
-          "promo": "Bet & Get",
-          "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on Norway v France in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on Norway v France in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "https://app.air.inc/b/social-3d79fc45-304a-406f-b5db-e46008897c3a/c/8c17ed6b-768f-4974-9e6c-3212ddb9a7de",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": "images/norway-v-france.jpg"
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Irish Derby Weekend",
-          "competition": "Horse Racing — Money Back",
-          "promo": "Money Back",
-          "type": "mb",
-          "twitter": "Get your money back as a Free Bet if your horse loses in the feature races across Irish Derby Weekend!\n\nTap below to view the full racecard.",
-          "facebook": "",
-          "air": "",
-          "boylesports": "",
-          "image": "",
-          "note": "MBAL — apply the specific feature race once confirmed."
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Panama v England",
-          "competition": "World Cup — Super Boost (detail TBC)",
-          "promo": "Super Boost",
-          "type": "sb",
-          "twitter": "🚀 Super Boost available for Panama v England in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for Panama v England in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/sports/football/event/international-world-cup/panama-v-england",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/panama-v-england",
-          "image": "images/_sb-panama-england.jpg",
-          "note": "Super Boost details not yet confirmed — copy to be updated."
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Egypt v Iran",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Egypt meet Iran in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Egypt meet Iran in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/egypt-v-iran",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/egypt-v-iran",
-          "image": "images/egypt-v-iran.jpg"
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "New Zealand v Belgium",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as New Zealand take on Belgium in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as New Zealand take on Belgium in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/new-zealand-v-belgium",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/new-zealand-v-belgium",
-          "image": "images/new-zealand-v-belgium.jpg"
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Uruguay v Spain",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Uruguay face 2010 winners Spain.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Uruguay face 2010 winners Spain.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/uruguay-v-spain",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/uruguay-v-spain",
-          "image": "images/uruguay-v-spain.jpg"
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Colombia v Portugal",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Colombia lock horns with Portugal in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Colombia lock horns with Portugal in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-portugal",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-portugal",
-          "image": "images/colombia-v-portugal.jpg"
-        },
-        {
-          "day": "Saturday 27 Jun",
-          "match": "Panama v England",
-          "competition": "World Cup — Free Bet",
-          "promo": "Free Bet",
-          "type": "fb",
-          "twitter": "Claim a £/€2 Free Bet on Bet Builder for Panama v England in the World Cup!\n\nTap below to claim your free bet.",
-          "facebook": "Claim a £/€2 Free Bet on Bet Builder for Panama v England in the World Cup!\n\n📲 Claim now — https://www.boylesports.com/promotions/online/football",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": ""
-        },
-        {
-          "day": "Sunday 28 Jun",
-          "match": "Irish Derby Weekend",
-          "competition": "Horse Racing — Money Back",
-          "promo": "Money Back",
-          "type": "mb",
-          "twitter": "Get your money back as a Free Bet if your horse finishes 2nd to the SP favourite at the Irish Derby!\n\nTap below to view the full racecard.",
-          "facebook": "",
-          "air": "",
-          "boylesports": "",
-          "image": ""
-        }
-      ]
-    },
-    {
       "label": "29 Jun – 5 Jul 2026",
       "items": [
         {
@@ -2020,7 +853,7 @@ window.SCH_DATA = {
           "note": ""
         },
         {
-          "day": "Tuesday 30 Jun",
+          "day": "Wednesday 1 Jul",
           "match": "Mexico v Ecuador (02:00)",
           "competition": "World Cup",
           "promo": "25% BBB",
@@ -2047,16 +880,16 @@ window.SCH_DATA = {
         },
         {
           "day": "Wednesday 1 Jul",
-          "match": "TBC v USA",
+          "match": "Belgium v Senegal (21:00)",
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost on TBC v USA in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost on TBC v USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Belgium take on Senegal in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Belgium take on Senegal in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/belgium-v-senegal",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/belgium-v-senegal",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": ""
         },
         {
           "day": "Wednesday 1 Jul",
@@ -2086,42 +919,29 @@ window.SCH_DATA = {
         },
         {
           "day": "Thursday 2 Jul",
-          "match": "Bosnia v USA (01:00)",
+          "match": "USA v Bosnia",
           "competition": "World Cup",
-          "promo": "50% BBB",
-          "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on co-hosts the USA in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Bosnia take on co-hosts the USA in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA take on Bosnia in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA take on Bosnia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/usa-v-bosnia-&-herzegovina",
           "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/bosnia-&-herzegovina-v-usa",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/usa-v-bosnia-&-herzegovina",
           "image": "",
           "note": ""
         },
         {
           "day": "Thursday 2 Jul",
-          "match": "04:00 Match",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost on 04:00 Match in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost on 04:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": "",
-          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
-        },
-        {
-          "day": "Thursday 2 Jul",
-          "match": "20:00 Match",
+          "match": "Spain v Austria (20:00)",
           "competition": "World Cup",
           "promo": "Bet & Get",
           "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 20:00 Match in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 20:00 Match in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria (20:00) in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria (20:00) in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": "World Cup match; 20:00 kick-off, fixture confirmed, design pending"
         },
         {
           "day": "Thursday 2 Jul",
@@ -2177,14 +997,14 @@ window.SCH_DATA = {
         },
         {
           "day": "Friday 3 Jul",
-          "match": "Switzerland v Iran (04:00)",
+          "match": "Switzerland v Algeria (04:00)",
           "competition": "World Cup",
           "promo": "25% BBB",
           "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Iran in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Iran in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-iran",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Algeria in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as Switzerland take on Algeria in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-algeria",
           "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-iran",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/switzerland-v-algeria",
           "image": "",
           "note": ""
         },
@@ -2296,115 +1116,6 @@ window.SCH_DATA = {
     }
   ],
   "gamingWeeks": [
-    {
-      "label": "22–28 Jun 2026",
-      "items": [
-        {
-          "section": "Gaming",
-          "name": "World Tour Promo",
-          "type": "Promo",
-          "date": "22 Jun 2026",
-          "meta": "☀️☀️Join the WORLD TOUR! 👉 Complete Challenges & earn Rewards only at BOYLE Casino!",
-          "twitter": "☀️ Join the WORLD TOUR! 👉 Complete Challenges & earn Rewards only at BOYLE Casino!",
-          "instagram": "☀️☀️Join the WORLD TOUR! 👉 Complete Challenges & earn Rewards only at BOYLE Casino!\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://boylesports.sharepoint.com/sites/DesignTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDesignTeam%2FShared%20Documents%2F00%5FBack%5FYourself%2F03%5FDigital%2F03%5FGAMING%2F00%5FThunderbites%2FWorlds%20Cup%20%28Thunderbite%20Summer%29%2FGeneric%2FSocial&viewid=1c74581b%2D83eb%2D4158%2D96bc%2Dcbe5821bd850&or=EXCEL%2DWEB%2EBODY%2ENT&ct=1780063954485",
-          "facebook_link": "https://games.boylesports.com/promotions-and-offers/world-tour/?btag=55497",
-          "twitter_link": "https://games.boylesports.com/promotions-and-offers/world-tour/?btag=55498",
-          "files": []
-        },
-        {
-          "section": "Gaming",
-          "name": "Luxor of Cleopatra",
-          "type": "Exclusive",
-          "date": "23 Jun 2026",
-          "meta": "🔥🔥EXCLUSIVE Game at BOYLE Casino! 🔥🔥",
-          "twitter": "🔥 EXCLUSIVE Game at BOYLE Casino!",
-          "instagram": "🔥🔥EXCLUSIVE Game at BOYLE Casino! 🔥🔥\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/b26488041/b/f28fa1d2-984f-4aab-b9d0-5a2e7bf2579b",
-          "facebook_link": "https://games.boylesports.com/games/?btag=52901",
-          "twitter_link": "https://games.boylesports.com/games/?btag=52962",
-          "files": []
-        },
-        {
-          "section": "Gaming",
-          "name": "Big Bass Bonanza",
-          "type": "Game of the Month",
-          "date": "24 Jun 2026",
-          "meta": "✨✨Game of the Month at BOYLE Casino! ✨✨",
-          "twitter": "✨ Game of the Month at BOYLE Casino!",
-          "instagram": "✨✨Game of the Month at BOYLE Casino! ✨✨\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/b848b5de6/b/bf1f81ae-fecb-491f-884f-7051dc7ac4b2",
-          "facebook_link": "https://games.boylesports.com/games/big-bass-bonanza/?btag=52901",
-          "twitter_link": "https://games.boylesports.com/games/big-bass-bonanza/?btag=52962",
-          "files": []
-        },
-        {
-          "section": "Gaming",
-          "name": "Legion Gold and the Throne of Dead",
-          "type": "Exclusive",
-          "date": "25 Jun 2026",
-          "meta": "🔥🔥EXCLUSIVE Game at BOYLE Casino! 🔥🔥",
-          "twitter": "🔥 EXCLUSIVE Game at BOYLE Casino!",
-          "instagram": "🔥🔥EXCLUSIVE Game at BOYLE Casino! 🔥🔥\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/bba83725d/b/0825ff7d-8cd1-4e6b-b455-f237934ba664",
-          "facebook_link": "",
-          "twitter_link": "",
-          "files": []
-        },
-        {
-          "section": "Gaming",
-          "name": "Fury of Anubis",
-          "type": "New Game Release",
-          "date": "26 Jun 2026",
-          "meta": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩",
-          "twitter": "🤩 New Game Release at BOYLE Casino!",
-          "instagram": "🤩🤩New Game Release at BOYLE Casino! 🤩🤩\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/b11c69f3c/b/dd85e320-83cf-4b3f-b868-bc2e4142d405",
-          "facebook_link": "https://games.boylesports.com/games/?btag=52901",
-          "twitter_link": "https://games.boylesports.com/games/?btag=52962",
-          "files": []
-        },
-        {
-          "section": "Live Casino",
-          "name": "World Cup Drops",
-          "type": "Promo",
-          "date": "23 Jun 2026",
-          "meta": "🔝🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!🔝🔝",
-          "twitter": "🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!",
-          "instagram": "🔝🔝 500K in random Cash Prizes to be won! Stake in Live Casino & join the World Cup Drops!🔝🔝\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://boylesports.sharepoint.com/sites/DesignTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FDesignTeam%2FShared%20Documents%2F00%5FBack%5FYourself%2F03%5FDigital%2F03%5FGAMING%2F14%5FLive%20Casino%2FWorld%20Cup%20Drops%2FSocial&viewid=1c74581b%2D83eb%2D4158%2D96bc%2Dcbe5821bd850&or=EXCEL%2DWEB%2EBODY%2ENT&ct=1781250658187",
-          "facebook_link": "https://games.boylesports.com/promotions-and-offers/world-cup-drops/?btag=55393",
-          "twitter_link": "https://games.boylesports.com/promotions-and-offers/world-cup-drops/?btag=55394",
-          "files": []
-        },
-        {
-          "section": "Live Casino",
-          "name": "Fireball Roulette Live",
-          "type": "Highlighted Game",
-          "date": "27 Jun 2026",
-          "meta": "✨✨BOYLE Live Casino presents FIREBALL ROULETTE LIVE ✨ ✨",
-          "twitter": "✨ BOYLE Live Casino presents FIREBALL ROULETTE LIVE",
-          "instagram": "✨✨BOYLE Live Casino presents FIREBALL ROULETTE LIVE ✨ ✨\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/be09abfed",
-          "facebook_link": "https://games.boylesports.com/games/fireball-roulette-live/?btag=55400",
-          "twitter_link": "https://games.boylesports.com/games/fireball-roulette-live/?btag=55401",
-          "files": []
-        },
-        {
-          "section": "Live Casino",
-          "name": "Game Shows Potpourri",
-          "type": "Potpourri",
-          "date": "28 Jun 2026",
-          "meta": "⚡⚡Lights on, it’s showtime! Get your seat at Boyle Live Casino⚡⚡",
-          "twitter": "⚡ Lights on, it’s showtime! Get your seat at Boyle Live Casino",
-          "instagram": "⚡⚡Lights on, it’s showtime! Get your seat at Boyle Live Casino⚡⚡\n\n📲 Click the link in our bio to learn more.",
-          "design": "https://app.air.inc/a/b325f4b9f",
-          "facebook_link": "https://games.boylesports.com/live-casino/?btag=55400",
-          "twitter_link": "https://games.boylesports.com/live-casino/?btag=55401",
-          "files": []
-        }
-      ]
-    },
     {
       "label": "29 Jun – 5 Jul 2026",
       "items": [
