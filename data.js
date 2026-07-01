@@ -585,17 +585,17 @@ window.SCH_DATA = {
             },
             {
               "time": "14:30",
-              "text": "Round of 16 - 22:00 Match",
+              "text": "Paraguay v France",
               "cat": "fixture"
             },
             {
               "time": "15:00",
-              "text": "Bet 10 Get 5 - 22:00 Match Bet Builders",
+              "text": "Bet 10 Get 5 - Paraguay v France Bet Builders",
               "cat": "promo"
             },
             {
               "time": "17:00",
-              "text": "Round of 16 - 18:00 Match",
+              "text": "Canada v Morocco",
               "cat": "fixture"
             },
             {
@@ -605,12 +605,12 @@ window.SCH_DATA = {
             },
             {
               "time": "19:00",
-              "text": "England v TBC",
+              "text": "Canada v Morocco",
               "cat": "fixture"
             },
             {
               "time": "19:30",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - Canada v Morocco",
               "cat": "promo"
             },
             {
@@ -625,7 +625,7 @@ window.SCH_DATA = {
             },
             {
               "time": "20:45",
-              "text": "Round of 16 - 22:00 Match",
+              "text": "Paraguay v France",
               "cat": "fixture"
             },
             {
@@ -635,7 +635,7 @@ window.SCH_DATA = {
             },
             {
               "time": "21:30",
-              "text": "Bet 10 Get 5 - 22:00 Match Bet Builders",
+              "text": "Bet 10 Get 5 - Paraguay v France Bet Builders",
               "cat": "promo"
             }
           ]
@@ -666,22 +666,22 @@ window.SCH_DATA = {
             },
             {
               "time": "10:00",
-              "text": "England v TBC",
+              "text": "Mexico v England",
               "cat": "fixture"
             },
             {
               "time": "10:30",
-              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "text": "Bet 5 Get 5 - Mexico v England Bet Builders",
               "cat": "promo"
             },
             {
               "time": "11:30",
-              "text": "England v TBC",
+              "text": "Mexico v England",
               "cat": "fixture"
             },
             {
               "time": "12:00",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - Mexico v England",
               "cat": "promo"
             },
             {
@@ -706,12 +706,22 @@ window.SCH_DATA = {
             },
             {
               "time": "17:00",
-              "text": "England v TBC",
+              "text": "Mexico v England",
               "cat": "fixture"
             },
             {
+              "time": "18:30",
+              "text": "Brazil v Norway",
+              "cat": "fixture"
+            },
+            {
+              "time": "19:00",
+              "text": "50% BBB - Brazil v Norway",
+              "cat": "promo"
+            },
+            {
               "time": "19:30",
-              "text": "England v TBC",
+              "text": "Mexico v England",
               "cat": "fixture"
             },
             {
@@ -721,12 +731,12 @@ window.SCH_DATA = {
             },
             {
               "time": "20:30",
-              "text": "Super Boost - England v TBC",
+              "text": "Super Boost - Mexico v England",
               "cat": "promo"
             },
             {
               "time": "20:45",
-              "text": "Bet 5 Get 5 - England v TBC Bet Builders",
+              "text": "Bet 5 Get 5 - Mexico v England Bet Builders",
               "cat": "promo"
             },
             {
@@ -769,7 +779,7 @@ window.SCH_DATA = {
           "type": "sb",
           "twitter": "🚀 Super Boost available for Brazil v Japan in the World Cup!\n\nTap below to view the boost",
           "facebook": "🚀 Super Boost available for Brazil v Japan in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/brazil-v-japan",
           "image": "",
           "note": "Super Boost details not yet confirmed — copy to be updated."
@@ -798,7 +808,7 @@ window.SCH_DATA = {
           "air": "https://app.air.inc/b/social-f35cb1e3-5669-402c-ba85-4e360e76a19b/c/be56fd8c-f685-421c-adeb-ccb169b51017",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; fixture confirmed, design pending"
+          "note": "World Cup match; fixture confirmed, matches design folder linked"
         },
         {
           "day": "Monday 29 Jun",
@@ -832,9 +842,9 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for Ivory Coast v Norway (18:00) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for Ivory Coast v Norway (18:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "🚀 Super Boost available for Ivory Coast v Norway in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Ivory Coast v Norway in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/ivory-coast-v-norway",
           "image": "",
           "note": "Super Boost details not yet confirmed — copy to be updated."
@@ -845,8 +855,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as France take on Sweden in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as France take on Sweden in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/france-v-sweden",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as France face Sweden in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as France face Sweden in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/france-v-sweden",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/france-v-sweden",
           "image": "",
@@ -858,8 +868,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "25% BBB",
           "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico take on Ecuador in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico take on Ecuador in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-ecuador",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico meet Ecuador in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts Mexico meet Ecuador in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-ecuador",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-ecuador",
           "image": "",
@@ -871,9 +881,9 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for England v DR Congo (17:00) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for England v DR Congo (17:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "🚀 Super Boost available for England v DR Congo in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for England v DR Congo in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/england-v-dr-congo",
           "image": "",
           "note": "Super Boost details not yet confirmed — copy to be updated."
@@ -884,8 +894,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Belgium take on Senegal in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Belgium take on Senegal in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/belgium-v-senegal",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Belgium go head-to-head with Senegal in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Belgium go head-to-head with Senegal in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/belgium-v-senegal",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/belgium-v-senegal",
           "image": "",
@@ -897,12 +907,12 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "Bet & Get",
           "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo (17:00) in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo (17:00) in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v DR Congo in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.air.inc/b/matches-c2b73d4a-bc7d-4f49-a8b8-933ae731123a",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; 17:00 kick-off, fixture confirmed, design pending"
+          "note": "World Cup match; 17:00 kick-off, fixture confirmed, matches design folder linked"
         },
         {
           "day": "Wednesday 1 Jul",
@@ -923,8 +933,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "25% BBB",
           "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA take on Bosnia in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA take on Bosnia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/usa-v-bosnia-&-herzegovina",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA lock horns with Bosnia in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as co-hosts the USA lock horns with Bosnia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/usa-v-bosnia-&-herzegovina",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/usa-v-bosnia-&-herzegovina",
           "image": "",
@@ -936,12 +946,12 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "Bet & Get",
           "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria (20:00) in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria (20:00) in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on Spain v Austria in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.air.inc/b/matches-c2b73d4a-bc7d-4f49-a8b8-933ae731123a",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; 20:00 kick-off, fixture confirmed, design pending"
+          "note": "World Cup match; 20:00 kick-off, fixture confirmed, matches design folder linked"
         },
         {
           "day": "Thursday 2 Jul",
@@ -962,9 +972,9 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for Australia v Egypt (19:00) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for Australia v Egypt (19:00) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "🚀 Super Boost available for Australia v Egypt in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Australia v Egypt in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/australia-v-egypt",
           "image": "",
           "note": "Super Boost details not yet confirmed — copy to be updated."
@@ -975,8 +985,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina take on Cape Verde in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina take on Cape Verde in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-cape-verde",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina do battle with Cape Verde in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as World Cup holders Argentina do battle with Cape Verde in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-cape-verde",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/argentina-v-cape-verde",
           "image": "",
@@ -988,8 +998,8 @@ window.SCH_DATA = {
           "competition": "World Cup",
           "promo": "50% BBB",
           "type": "50",
-          "twitter": "🚀 Win 50% more with Bet Builder Boost as Portugal take on Croatia in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 50% more with Bet Builder Boost as Portugal take on Croatia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-croatia",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Portugal square off against Croatia in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Portugal square off against Croatia in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-croatia",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/portugal-v-croatia",
           "image": "",
@@ -1010,29 +1020,42 @@ window.SCH_DATA = {
         },
         {
           "day": "Saturday 4 Jul",
-          "match": "Colombia v Ghana (02:30)",
+          "match": "Canada v Morocco (18:00)",
           "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost as Colombia take on Ghana in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost as Colombia take on Ghana in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
+          "promo": "Super Boost",
+          "type": "sb",
+          "twitter": "🚀 Super Boost available for Canada v Morocco in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Canada v Morocco in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/canada-v-morocco",
+          "image": "",
+          "note": "Super Boost details not yet confirmed — copy to be updated."
+        },
+        {
+          "day": "Saturday 4 Jul",
+          "match": "Paraguay v France (22:00)",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as Paraguay face France in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as Paraguay face France in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/paraguay-v-france",
           "air": "",
-          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/paraguay-v-france",
           "image": "",
           "note": ""
         },
         {
           "day": "Saturday 4 Jul",
-          "match": "22:00 Match",
+          "match": "Colombia v Ghana (02:30)",
           "competition": "World Cup",
-          "promo": "Bet & Get",
-          "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 22:00 Match in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€10 on Bet Builder on 22:00 Match in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "promo": "25% BBB",
+          "type": "25",
+          "twitter": "🚀 Win 25% more with Bet Builder Boost as Colombia meet Ghana in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 25% more with Bet Builder Boost as Colombia meet Ghana in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
           "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/colombia-v-ghana",
           "image": "",
-          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": ""
         },
         {
           "day": "Saturday 4 Jul",
@@ -1053,8 +1076,8 @@ window.SCH_DATA = {
           "competition": "GAA Championship",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for GAA in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/gaelic-games",
           "image": "",
@@ -1062,42 +1085,42 @@ window.SCH_DATA = {
         },
         {
           "day": "Sunday 5 Jul",
-          "match": "England v TBC",
+          "match": "Mexico v England (01:00, 6 Jul)",
           "competition": "World Cup",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for England v TBC in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for England v TBC in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for Mexico v England in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for Mexico v England in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.bannerflow.com/studio/brand/5553724f320a791594148995/creativeset/1185282?version=1981413",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/mexico-v-england",
           "image": "",
           "note": "Super Boost details not yet confirmed — copy to be updated."
         },
         {
           "day": "Sunday 5 Jul",
-          "match": "01:00 Match",
-          "competition": "World Cup",
-          "promo": "25% BBB",
-          "type": "25",
-          "twitter": "🚀 Win 25% more with Bet Builder Boost on 01:00 Match in the World Cup.\n\nTap below to view the full market",
-          "facebook": "🚀 Win 25% more with Bet Builder Boost on 01:00 Match in the World Cup.\n\n📲 Full market — https://www.boylesports.com/promotions/online/football",
-          "air": "",
-          "boylesports": "https://www.boylesports.com/promotions/online/football",
-          "image": "",
-          "note": "World Cup match; teams TBC, design pending · Teams TBC — copy to be finalised once confirmed."
-        },
-        {
-          "day": "Sunday 5 Jul",
-          "match": "England v TBC",
+          "match": "Mexico v England (01:00, 6 Jul)",
           "competition": "World Cup",
           "promo": "Bet & Get",
           "type": "bg",
-          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\nTap below to opt in.",
-          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on England v TBC in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
-          "air": "",
+          "twitter": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on Mexico v England in the World Cup.\n\nTap below to opt in.",
+          "facebook": "Get a £/€5 Free Bet when you bet £/€5 on Bet Builder on Mexico v England in the World Cup.\n\n📲 Opt in — https://www.boylesports.com/promotions/online/football",
+          "air": "https://app.air.inc/b/matches-c2b73d4a-bc7d-4f49-a8b8-933ae731123a",
           "boylesports": "https://www.boylesports.com/promotions/online/football",
           "image": "",
-          "note": "World Cup match; opponent TBC, design pending · Teams TBC — copy to be finalised once confirmed."
+          "note": "Match 01:00 6 Jul, pushed to Sun content; fixture confirmed, matches design folder linked"
+        },
+        {
+          "day": "Sunday 5 Jul",
+          "match": "Brazil v Norway (21:00)",
+          "competition": "World Cup",
+          "promo": "50% BBB",
+          "type": "50",
+          "twitter": "🚀 Win 50% more with Bet Builder Boost as record five-time winners Brazil go head-to-head with Norway in the World Cup.\n\nTap below to view the full market",
+          "facebook": "🚀 Win 50% more with Bet Builder Boost as record five-time winners Brazil go head-to-head with Norway in the World Cup.\n\n📲 Full market — https://www.boylesports.com/sports/football/event/international-world-cup/brazil-v-norway",
+          "air": "",
+          "boylesports": "https://www.boylesports.com/sports/football/event/international-world-cup/brazil-v-norway",
+          "image": "",
+          "note": ""
         },
         {
           "day": "Sunday 5 Jul",
@@ -1105,8 +1128,8 @@ window.SCH_DATA = {
           "competition": "GAA Championship",
           "promo": "Super Boost",
           "type": "sb",
-          "twitter": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\nTap below to view the boost",
-          "facebook": "🚀 Super Boost available for GAA (TBC v TBC) in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
+          "twitter": "🚀 Super Boost available for GAA in the World Cup!\n\nTap below to view the boost",
+          "facebook": "🚀 Super Boost available for GAA in the World Cup!\n\n📲 View the boost — https://www.boylesports.com/promotions/online/football",
           "air": "",
           "boylesports": "https://www.boylesports.com/sports/gaelic-games",
           "image": "",
